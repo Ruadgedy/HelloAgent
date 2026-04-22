@@ -1,0 +1,2355 @@
+{
+  "search_metadata": {
+    "id": "69df8fd1eb55a39fb0813aff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8p9o_DaLwyeeB0srEtMZww/69df8fd1eb55a39fb0813aff.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8p9o_DaLwyeeB0srEtMZww/69df8fd1eb55a39fb0813aff.json_with_pixel_position",
+    "created_at": "2026-04-15 13:17:05 UTC",
+    "processed_at": "2026-04-15 13:17:05 UTC",
+    "google_url": "https://www.google.com/search?q=Coffee&oq=Coffee&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8p9o_DaLwyeeB0srEtMZww/69df8fd1eb55a39fb0813aff.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Coffee",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Coffee",
+    "total_results": 3030000000,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling",
+    "results_for": "Austin, TX"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&udm=1&lsack=0Y_fadfkPKekiLMP1fbD-Q4&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QtgN6BAgwEAM",
+    "image": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/K8SUP8qwKh8YKm_2sOWluQ.png",
+    "gps_coordinates": {
+      "latitude": 30.27211440480969,
+      "longitude": -97.74518966674805
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 5,
+        "reviews": 20,
+        "reviews_original": "(20)",
+        "price": "$1–10",
+        "thumbnail": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/ZASFELuW9USIys8FbR9Bqqj_7lQC8dXMZYjJ-4PNEXT79vvM4sqG6HKBtLsvjWKH.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaXyF-ubgohbhgxGK9FvJ8t5DgqLIrgApIsYOMukvDfwiQSMxSXNaY_UBFslkvXuwSCndMJ7TIWq45jyC9zAwl_AWenBOLEPzejEr5eg456RDIDvbArAoTjBSIgt1sXW6ZvFSxXXIilk6m=w800-h800-n-k-no",
+        "service_options": {
+          "dine_in": true,
+          "no_delivery": true
+        },
+        "place_id": "581431293581611026",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=581431293581611026&q=Coffee",
+        "provider_id": "/g/11yr7q6kv6",
+        "gps_coordinates": {
+          "latitude": 30.269417,
+          "longitude": -97.74107
+        },
+        "title": "Trippy Buck Coffee",
+        "type": "Coffee shop",
+        "address": "720 Brazos St"
+      },
+      {
+        "position": 2,
+        "rating": 4.5,
+        "reviews": 1200,
+        "reviews_original": "(1.2K)",
+        "price": "$1–10",
+        "description": "Cozy hangout for carefully sourced brews",
+        "thumbnail": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/ZASFELuW9USIys8FbR9BqsbFiTOMRW8DB-pAW41PPUxybAkGdpYA2RvXHlok4ZeP.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_j7-t4c77zTusSd9IR4xATXMtJGrXXyTYI3wSdN7KJ-O1NHSZqhOQDxyI2Akjs5YQUJJU4V-FeM7cR5kJZzuvtvJvrjWOa72Bf7FwysMv-6ymsqjnlD9qKIcMl2KRu_xV3I9crQ=w800-h800-n-k-no",
+        "place_id": "11265938073076301333",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=11265938073076301333&q=Coffee",
+        "provider_id": "/g/12hlpyx7f",
+        "gps_coordinates": {
+          "latitude": 30.266216,
+          "longitude": -97.743065
+        },
+        "title": "Houndstooth Coffee",
+        "type": "Coffee shop",
+        "address": "401 Congress Ave. #100c"
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews": 1400,
+        "reviews_original": "(1.4K)",
+        "price": "$10–20",
+        "description": "Coffee & snacks in a vibrant space",
+        "thumbnail": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/ZASFELuW9USIys8FbR9Bqqsvr9XfhP-G-FYfeiaukw5oG0iZ_kZasa8kxYo3VPG_.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIkCWiSetv_iLX9Y0CEfp5KSKZ2sFP4Pbj2W5HnKeZsdrN_6sE_VlEJoBjvBHlA57QvBxo_lqvdPelxvO2E91KHFO0KXLVkwNH8AKsTzdFpbSYgkk6P0HaH78W-9XXk3Zzh4qs=w800-h800-n-k-no",
+        "place_id": "12201203717436125290",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&ludocid=12201203717436125290&q=Coffee",
+        "provider_id": "/g/12615wz4l",
+        "gps_coordinates": {
+          "latitude": 30.265017,
+          "longitude": -97.746086
+        },
+        "title": "Jo's Coffee – Downtown",
+        "type": "Coffee shop",
+        "address": "242 W 2nd St"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&udm=1&lsack=0Y_fadfkPKekiLMP1fbD-Q4&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QjGp6BAgyEAE"
+  },
+  "knowledge_graph": {
+    "title": "Coffee",
+    "type": "Beverages",
+    "kgmid": "/m/02vqfm",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02vqfm&hl=en-US&q=Coffee",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02vqfm&location=Austin%2C+Texas%2C+United+States&q=Coffee",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/KF_WZWcP7Lu_LiolA7NOSPC5bjlK2m4UuPJ4xa2mlksWH2grGwSa5K-LafpBdsfE.webp",
+        "source": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      {
+        "image": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/KF_WZWcP7Lu_LiolA7NOSLCko05nDstsjFx_hX5t4JyMlsV9ST5KPGKUXTE1-DCC.webp",
+        "source": "https://www.eatright.org/health/wellness/healthful-habits/benefits-of-coffee"
+      },
+      {
+        "image": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/KF_WZWcP7Lu_LiolA7NOSE1TKzGOhrzQYQkATJkic9FeRURo4GaLjdoX17dXVgMU.webp",
+        "source": "https://altonbrown.com/recipes/perfect-pour-over-coffee/"
+      },
+      {
+        "image": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/KF_WZWcP7Lu_LiolA7NOSE1a0wuQPGrHeUrrqA2Q9Sq7fvB_BPjdqIx3Qn_4njsU.webp",
+        "source": "https://stonestreetcoffee.com/blogs/brooklyn-coffee-academy/an-a-to-z-glossary-of-coffee-drinks"
+      }
+    ],
+    "description": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content, but decaffeinated coffee is also commercially available. There are also various coffee substitutes.",
+    "source": {
+      "name": " Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDACoffee1 Calories - 1 cup (8 fl oz) (237 g)",
+    "sources_include_links": [
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/171890/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/171889/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/171891/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/171893/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/174134/nutrients"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/"
+      },
+      {
+        "text": "USDA",
+        "link": "https://fdc.nal.usda.gov/food-details/174135/nutrients"
+      }
+    ],
+    "preparation_methods": {
+      "subtitle": "What are the different ways to prepare coffee?",
+      "ai_overview": {
+        "text_blocks": [
+          {
+            "type": "paragraph",
+            "snippet": "Coffee preparation methods generally fall into four categories—infusion (steeping), decoction (boiling), pressure, and gravity (drip)—each creating a unique flavor profile. Popular techniques range from automatic drip and French press to espresso, pour-over, cold brew, and Moka pot, allowing for control over brewing time, temperature, and grind size.",
+            "reference_indexes": [
+              0,
+              4,
+              11
+            ]
+          },
+          {
+            "type": "heading",
+            "snippet": "Here are the different ways to prepare coffee:"
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "title": "Automatic Drip:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Automatic+Drip&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIoAIQAQ",
+                "snippet": "The most common home method, where water heated to 195–205°F passes through grounds in a filter using gravity.",
+                "reference_indexes": [
+                  6,
+                  7
+                ]
+              },
+              {
+                "title": "French Press (Immersion):",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=French+Press&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIxAIQAQ",
+                "snippet": "Coarse grounds steep directly in hot water for several minutes before a plunger separates the grounds, producing a rich, full-bodied coffee.",
+                "reference_indexes": [
+                  2,
+                  8
+                ]
+              },
+              {
+                "title": "Pour-Over / Drip (Manual):",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Pour-Over&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIygIQAQ",
+                "snippet": "Hot water is slowly poured over grounds in a filter (e.g., V60, Chemex). This offers high control over brewing variables for a cleaner, often brighter cup.",
+                "reference_indexes": [
+                  4,
+                  6,
+                  10
+                ]
+              },
+              {
+                "title": "Espresso:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Espresso&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUImAMQAQ",
+                "snippet": "A pressurized method that forces hot water through finely ground coffee, creating a highly concentrated, flavorful shot topped with crema.",
+                "reference_indexes": [
+                  0,
+                  11
+                ]
+              },
+              {
+                "title": "Moka Pot (Stovetop):",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Moka+Pot&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIwwIQAQ",
+                "snippet": "Uses steam pressure from boiling water to force water up through grounds, producing a strong, espresso-like coffee.",
+                "reference_indexes": [
+                  3,
+                  11
+                ]
+              },
+              {
+                "title": "Cold Brew:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Cold+Brew&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUI5gIQAQ",
+                "snippet": "Grounds steep in cold water for 12–24 hours, resulting in a smooth, low-acid concentrate.",
+                "reference_indexes": [
+                  10,
+                  11
+                ]
+              },
+              {
+                "title": "AeroPress:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=AeroPress&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIrAMQAQ",
+                "snippet": "A versatile, durable brewer that uses manual pressure to make a clean, full-flavored cup in a short time.",
+                "reference_indexes": [
+                  0,
+                  2
+                ]
+              },
+              {
+                "title": "Vacuum / Siphon:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Vacuum&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIpAMQAQ",
+                "snippet": "Uses heat to create vapor pressure to move water between two chambers, creating a delicate, clean, and theatrically prepared cup.",
+                "reference_indexes": [
+                  1,
+                  10
+                ]
+              },
+              {
+                "title": "Percolator:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Percolator&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvwIQAQ",
+                "snippet": "Boils water and cycles it up a tube, continuously cycling water through grounds until desired strength is reached.",
+                "reference_indexes": [
+                  10
+                ]
+              },
+              {
+                "title": "Turkish/Ibrik:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Turkish/Ibrik&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUI0gIQAQ",
+                "snippet": "A decoction method where extremely fine coffee grounds are boiled in a special pot, often with sugar, producing a very thick, intense coffee.",
+                "reference_indexes": [
+                  0
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "This video shows you how to make coffee with a French press:",
+            "video": {
+              "link": "https://www.youtube.com/watch?v=Ek0Khqj2liQ&t=12",
+              "thumbnail": "https://i.ytimg.com/vi/Ek0Khqj2liQ/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3l4suzHRQojxp-W_et3W6FTaU_jEg",
+              "source": "La Colombe Coffee",
+              "date": "Sep 27, 2024"
+            }
+          },
+          {
+            "type": "heading",
+            "snippet": "Key Factors for Different Methods:"
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "title": "Grind Size:",
+                "snippet": "Espresso requires very fine grounds, while French press requires coarse grounds.",
+                "reference_indexes": [
+                  9
+                ]
+              },
+              {
+                "title": "Brew Time:",
+                "snippet": "Steeping (French press) takes longer (e.g., 4 minutes) than pressurized methods (espresso, 30 seconds).",
+                "reference_indexes": [
+                  4,
+                  8
+                ]
+              },
+              {
+                "title": "Flavor Profiles:",
+                "snippet": "Immersion methods like French press yield a \"full-bodied\" cup, while filter methods (Chemex, pour-over) produce \"cleaner\" cups.",
+                "reference_indexes": [
+                  5,
+                  6
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Watch this video to learn about five different coffee brewing methods:",
+            "video": {
+              "link": "https://www.youtube.com/watch?v=SzWGPqk1hes&t=5",
+              "thumbnail": "https://i.ytimg.com/vi/SzWGPqk1hes/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3mzLMDDC-NUriLedrIYlsjABvCzHg",
+              "source": "Times Foodie",
+              "date": "May 27, 2025"
+            }
+          }
+        ],
+        "references": [
+          {
+            "title": "Coffee Brewing Methods: French Press vs Pour Over vs AeroPress ...",
+            "link": "https://www.youtube.com/watch?v=vQVTNscQY0c#:~:text=what's%20the%20best%20way%20to%20brew%20coffee,of%20the%20most%20common%20coffee%20brewing%20methods.",
+            "snippet": "Apr 20, 2021 — what's the best way to brew coffee at home or what coffee maker should I buy these two questions we get asked a lot an...",
+            "source": "YouTube · European Coffee Trip",
+            "index": 0
+          },
+          {
+            "title": "How to make delicious coffee at home (7 different ways!)",
+            "link": "https://www.youtube.com/watch?v=tJHTA7jB-DE",
+            "snippet": "Nov 28, 2025 — hello there we are going to embark on a coffee brewing speed tour wherein we explore. seven different ways to make cof...",
+            "source": "YouTube · Morgan Eckroth",
+            "index": 1
+          },
+          {
+            "title": "Coffee Basics: Brewing Methods",
+            "link": "https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-brewing-methods",
+            "source": "Counter Culture Coffee",
+            "index": 2
+          },
+          {
+            "title": "6 Popular Methods for Brewing Coffee at Home",
+            "link": "https://treescoffee.com/blog/2016/04/6-popular-methods-for-brewing-coffee-at-home/#:~:text=Percolate:%20Stovetop%20Moka%20Pot,Bialetti%2C%20Pedrini%2C%20and%20Kabalo.",
+            "snippet": "Percolate: Stovetop Moka Pot. Originally patented in 1933 by Alfonso Bialetti, stovetop style coffee makers use steam pressure fro...",
+            "source": "Trees Organic Coffee",
+            "index": 3
+          },
+          {
+            "title": "Home Coffee Brewing 101: Methods, Equipment, and Tips for the Perfect ...",
+            "link": "https://www.youtube.com/watch?v=FOtkVxvTKAo",
+            "snippet": "Mar 14, 2025 — there are enumerous coffee gadgets on the market some cost as little as $10 some cost as much as a car and it can be r...",
+            "source": "YouTube · methodicalcoffee",
+            "index": 4
+          },
+          {
+            "title": "Coffee Brewing Methods 101",
+            "link": "https://www.youtube.com/watch?v=Ek0Khqj2liQ",
+            "snippet": "Sep 27, 2024 — hello my name is Rachel i am the DC. and Philadelphia market trader i train baristas. and I also do quality assurance ...",
+            "source": "YouTube · La Colombe Coffee",
+            "index": 5
+          },
+          {
+            "title": "Brewing Methods – Coffee By Design",
+            "link": "https://coffeebydesign.com/pages/brewing-methods",
+            "source": "Coffee By Design",
+            "index": 6
+          },
+          {
+            "title": "Coffee preparation - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Coffee_preparation#:~:text=Coffee%20can%20be%20brewed%20in,percolation%20(as%20with%20espresso).",
+            "snippet": "Coffee can be brewed in several different ways, but these methods fall into four main groups depending on how the water is introdu...",
+            "source": "Wikipedia",
+            "index": 7
+          },
+          {
+            "title": "How to Make Coffee: 5 Best Brew Methods - Bean Box",
+            "link": "https://beanbox.com/blog/best-ways-to-make-coffee#:~:text=French%20Press%20Cons&text=While%20the%20drip%20method%20may,coffee%20immediately%20after%20brewing%20it.",
+            "snippet": "Oct 5, 2022 — French Press Cons ... While the drip method may be known for being easy and convenient, using a French press isn't exac...",
+            "source": "Bean Box",
+            "index": 8
+          },
+          {
+            "title": "The Best Ways to Brew Coffee at Home",
+            "link": "https://stonestreetcoffee.com/blogs/brooklyn-coffee-academy/the-best-ways-to-brew-coffee-at-home#:~:text=Grinding%20Your%20Coffee%20Beans%20at,burr%20grinder%20to%20guarantee%20consistency.",
+            "snippet": "Grinding Your Coffee Beans at Home If you choose to grind your beans at home, you can pick between two types of coffee grinders: B...",
+            "source": "Stone Street Coffee",
+            "index": 9
+          },
+          {
+            "title": "Types Of Coffee Brewing Methods",
+            "link": "https://www.restaurantware.com/blogs/coffee-shop-guide/types-of-coffee-brewing-methods",
+            "snippet": "Other methods include: * **Pour over coffee** This method allows control over variables like brewing time and water temperature. *",
+            "source": "Restaurantware",
+            "index": 10
+          },
+          {
+            "title": "9 Coffee Brewing Methods to Try",
+            "link": "https://www.caliohcoffee.com/blogs/coffee-knowledge/9-coffee-brewing-methods-to-try-for-a-unique-and-flavorful-cup",
+            "snippet": "Apr 6, 2023 — There are many unique coffee brewing methods, each with its own flavor profile and characteristics. Some methods includ...",
+            "source": "Calioh Coffee",
+            "index": 11
+          }
+        ]
+      },
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=what+are+the+different+ways+to+prepare+coffee&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBAj",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+are+the+different+ways+to+prepare+coffee"
+    },
+    "grinding_methods": {
+      "subtitle": "What are the different ways to grind coffee beans?",
+      "ai_overview": {
+        "text_blocks": [
+          {
+            "type": "paragraph",
+            "snippet": "Coffee beans are ground using burr grinders (most precise/consistent), blade grinders (budget-friendly but inconsistent), or manual hand grinders. The best method depends on the brewing technique, ranging from coarse (French press) to fine (espresso). Non-grinder alternatives include using a mortar and pestle, rolling pin, or blender.",
+            "reference_indexes": [
+              0,
+              2,
+              5,
+              6,
+              8,
+              9,
+              10,
+              12
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Primary Grinding Methods"
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "title": "Burr Grinders (Recommended):",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Burr+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIgQMQAQ",
+                "snippet": "Uses revolving abrasive surfaces (conical or flat) to crush beans into a uniform size, which is critical for consistent extraction. These allow for precise adjustments.",
+                "reference_indexes": [
+                  7,
+                  9,
+                  10
+                ]
+              },
+              {
+                "title": "Blade Grinders:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Blade+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvQMQAQ",
+                "snippet": "A spinning blade chops the beans, which is affordable but produces uneven, inconsistent grounds (mixture of powder and chunks), affecting brew quality.",
+                "reference_indexes": [
+                  7,
+                  8
+                ]
+              },
+              {
+                "title": "Manual/Hand Grinders:",
+                "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Manual/Hand+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvAMQAQ",
+                "snippet": "Good for beginners or for portability. They are quiet, manual, and usually offer better consistency than blade grinders.",
+                "reference_indexes": [
+                  4,
+                  10
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "This video explains the difference between burr and blade grinders:",
+            "video": {
+              "link": "https://www.youtube.com/watch?v=pYCvs1sBh3g&t=46",
+              "thumbnail": "https://i.ytimg.com/vi/pYCvs1sBh3g/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3m3ZoJcNSJkqDXD-LQthYbYSdkvQQ",
+              "source": "Volcanica Coffee",
+              "date": "Sep 25, 2024"
+            }
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Alternative Methods (Without a Grinder)"
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Mortar and Pestle: Highly effective for controlling consistency and achieving fine grinds.",
+                "snippet_links": [
+                  {
+                    "text": "Mortar and Pestle",
+                    "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Mortar+and+Pestle&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIjwMQAQ"
+                  }
+                ],
+                "reference_indexes": [
+                  2
+                ]
+              },
+              {
+                "snippet": "Rolling Pin: Place beans in a bag and crush them using a rolling pin, suitable for a coarse grind.",
+                "snippet_links": [
+                  {
+                    "text": "Rolling Pin",
+                    "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Rolling+Pin&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIpQMQAQ"
+                  }
+                ],
+                "reference_indexes": [
+                  2
+                ]
+              },
+              {
+                "snippet": "Blender/Food Processor: Uses blades to chop, similar to a blade grinder; best used in pulses to avoid overheating the beans.",
+                "snippet_links": [
+                  {
+                    "text": "Blender/Food Processor",
+                    "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Blender/Food+Processor&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIugMQAQ"
+                  }
+                ],
+                "reference_indexes": [
+                  3
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "This video shows how to grind coffee beans with a rolling pin and a blender:",
+            "video": {
+              "link": "https://www.youtube.com/watch?v=1YUDB-AjJ5s&t=5",
+              "thumbnail": "https://i.ytimg.com/vi/1YUDB-AjJ5s/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3mZu0JkVHPDBFq68E_4I9O3gf8kaw",
+              "source": "cookingguide",
+              "date": "Oct 25, 2012"
+            }
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Grind Size Based on Brew Method",
+            "reference_indexes": [
+              9,
+              11,
+              12
+            ]
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Coarse: French Press, Cold Brew."
+              },
+              {
+                "snippet": "Medium: Drip Coffee, Pour-over."
+              },
+              {
+                "snippet": "Fine: Espresso, Moka Pot."
+              },
+              {
+                "snippet": "Extra Fine: Turkish Coffee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "snippet": "Key Tips"
+          },
+          {
+            "type": "list",
+            "list": [
+              {
+                "snippet": "Roast Level: Lighter roasts require a finer grind, while darker, more porous roasts benefit from a coarser setting.",
+                "reference_indexes": [
+                  1,
+                  12
+                ]
+              },
+              {
+                "snippet": "Consistency: Consistent grind sizes prevent under-extraction (sourness) or over-extraction (bitterness).",
+                "reference_indexes": [
+                  8
+                ]
+              },
+              {
+                "snippet": "Freshness: Grind immediately before brewing to maximize flavor.",
+                "reference_indexes": [
+                  6
+                ]
+              }
+            ]
+          }
+        ],
+        "references": [
+          {
+            "title": "What's the Best Way to Grind Coffee at Home? | The Kitchn",
+            "link": "https://www.thekitchn.com/best-way-to-grind-coffee-23139279#:~:text=We%20compared%20a%20coffee%20mill%2C%20blade%20grinder%2C,what%20we%20found%20and%20what%20we%20recommend.",
+            "snippet": "Mar 10, 2021 — We compared a coffee mill, blade grinder, burr grinder, and pre-ground coffee. Here's what we found and what we recomm...",
+            "source": "The Kitchn",
+            "index": 0
+          },
+          {
+            "title": "How to GRIND Coffee the Right Way (Blade vs. Burr Grinders)",
+            "link": "https://www.youtube.com/watch?t=197&v=pYCvs1sBh3g",
+            "snippet": "Sep 25, 2024 — right start with a visual inspection compare your grind visually to a reference chart or a sample for the coffee nerds...",
+            "source": "YouTube · Volcanica Coffee",
+            "index": 1
+          },
+          {
+            "title": "How to Grind Coffee Beans Without a Grinder : Coffee Making",
+            "link": "https://www.youtube.com/watch?t=45&v=1YUDB-AjJ5s",
+            "snippet": "Oct 25, 2012 — now if you do choose to use your blender. make sure you read the user manual to ensure that you're not going to burn o...",
+            "source": "YouTube · cookingguide",
+            "index": 2
+          },
+          {
+            "title": "How to Grind Coffee Without a Grinder",
+            "link": "https://www.youtube.com/watch?t=464&v=PRPAV0uFavM",
+            "snippet": "Apr 30, 2022 — we have some whole beans here amidst. some like finer particles i'm going to give this method a 6 out of 10 it's just ...",
+            "source": "YouTube · HomeGrounds Coffee",
+            "index": 3
+          },
+          {
+            "title": "r/Coffee on Reddit: How to grind beans without a grinder? Also ...",
+            "link": "https://www.reddit.com/r/Coffee/comments/8v42xx/how_to_grind_beans_without_a_grinder_also_grinder/#:~:text=Hand%20Grinder%20Recommendations:%20Hand%20grinders%20are%20suggested,Plus%20are%20mentioned%20as%20specific%2C%20quality%20options.",
+            "snippet": "Jun 30, 2018 — Hand Grinder Recommendations: Hand grinders are suggested as a good starting point for grinding coffee beans, with mod...",
+            "source": "Reddit · r/Coffee",
+            "index": 4
+          },
+          {
+            "title": "Grinding and Brewing Coffee for Maximum Coffee Quality ... and a ...",
+            "link": "https://library.sweetmarias.com/grinding-and-brewing-coffee-for-maximum-coffee-quality-and-a-note-on-tasting-coffee-too/#:~:text=The%20whirley%20blade%20smashes%20the,which%20catches%20all%20the%20powder.",
+            "snippet": "The whirley blade smashes the bean to bits by rotating at high speeds. The results are an uneven grind: boulders, rocks and powder...",
+            "source": "Sweet Maria's Coffee Library",
+            "index": 5
+          },
+          {
+            "title": "How to properly grind coffee beans #shorts #coffee",
+            "link": "https://www.youtube.com/shorts/tNmt_7cZ8dU",
+            "snippet": "Nov 16, 2022 — grinding beans fresh makes the best coffee. but not all grinders are created equal blade grinders are typically afford...",
+            "source": "YouTube · Problem Solved",
+            "index": 6
+          },
+          {
+            "title": "How to Grind Coffee Beans at Home",
+            "link": "https://www.starbucksathome.com/brewing-guides/at-home-tips/how-to-grind-coffee-beans",
+            "source": "Starbucks Coffee",
+            "index": 7
+          },
+          {
+            "title": "How to Grind Coffee Beans at Home (With and Without a Grinder)",
+            "link": "https://methodicalcoffee.com/blogs/coffee-culture/how-to-grind-coffee-beans#:~:text=Blade,grinder%20is%20a%20better%20investment.",
+            "snippet": "Mar 20, 2025 — Blade. Blade grinders don't actually grind—they chop. A spinning blade rapidly cuts through the coffee beans, and in t...",
+            "source": "Methodical Coffee",
+            "index": 8
+          },
+          {
+            "title": "How to grind coffee beans | KitchenAid US",
+            "link": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-grind-coffee-beans",
+            "snippet": "* Step 1: Choose your brewing method. Once you determine which brewing method you'll be using—cold brew, espresso, auto drip, etc...",
+            "source": "KitchenAid",
+            "index": 9
+          },
+          {
+            "title": "The Ultimate Guide to Coffee Grind Size",
+            "link": "https://beannbeancoffee.com/blogs/beansider/the-ultimate-guide-to-coffee-grind-size#:~:text=Type%20of%20Coffee%20Grinders,grounds%20in%20about%20a%20minute.",
+            "snippet": "Jun 23, 2021 — Type of Coffee Grinders Grinding coffee beans at home means you'll need a coffee bean grinder. There are three types o...",
+            "source": "Bean & Bean Coffee Roasters",
+            "index": 10
+          },
+          {
+            "title": "5 WAYS TO GRIND FRESH COFFEE AT HOME",
+            "link": "https://coffeeculture.asia/5-ways-to-grind-fresh-coffee-at-home/",
+            "snippet": "Jun 21, 2021 — There are also different types of coffee grounds: * **Medium coffee ground** Has a consistency of granulated sugar. Pr...",
+            "source": "Coffee Culture Thailand",
+            "index": 11
+          },
+          {
+            "title": "Coffee Basics: Grind Size",
+            "link": "https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-grind-size",
+            "snippet": "Key Takeaways * The darker the roast, the coarser the grind setting. * Ethiopian coffees require a slightly coarser grind compare...",
+            "source": "Counter Culture Coffee",
+            "index": 12
+          }
+        ]
+      },
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=what+are+the+different+ways+to+grind+coffee+beans&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBAz",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+are+the+different+ways+to+grind+coffee+beans"
+    }
+  },
+  "immersive_products": [
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQMRR82mupBYOH4joRT_y9HIU7ByO50svEMTadQoAx4ajjHNga4kGSvwr4RkFoyI1ceHfRb0iGrPTQSPNPMsGn1GfxaIcMBh_dG3J8-gW1j",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Folgers Classic Roast Ground Coffee",
+      "rating": 4.5,
+      "reviews": 19000,
+      "price": "$16.69",
+      "extracted_price": 16.69,
+      "location": "Nearby, 11 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNDg3MDAxMDY5ODQwMDI2NTc4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDU1MTM3MTc4NTk0MzE5NDA5IiwiaW1hZ2VEb2NpZCI6IjE3NzUxNzQ4Mzk5ODY3NzgyNTE1IiwicmRzIjoiUENfMzI0NTQ3NjQwMDgzMzU1MTk0OHxQUk9EX1BDXzMyNDU0NzY0MDA4MzM1NTE5NDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMzI0NTQ3NjQwMDgzMzU1MTk0OCIsIm1pZCI6IjU3NjQ2MjYxMjI4MDEzMDQ4MSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNDg3MDAxMDY5ODQwMDI2NTc4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDU1MTM3MTc4NTk0MzE5NDA5IiwiaW1hZ2VEb2NpZCI6IjE3NzUxNzQ4Mzk5ODY3NzgyNTE1IiwicmRzIjoiUENfMzI0NTQ3NjQwMDgzMzU1MTk0OHxQUk9EX1BDXzMyNDU0NzY0MDA4MzM1NTE5NDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMzI0NTQ3NjQwMDgzMzU1MTk0OCIsIm1pZCI6IjU3NjQ2MjYxMjI4MDEzMDQ4MSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRVvHB6eMfolPIiR-wglo2rtsgfRP99Z6uPsY2qCx7zZ4twMMKbOSqdbgfn_y2aka8pLwh-bm5pOyGGTVAFM16Drxifd3eyHHidKvtw1UnzsJtyAYW5TD4F",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Great Value Classic Roast Ground Coffee",
+      "rating": 4,
+      "reviews": 278,
+      "price": "$5.88",
+      "extracted_price": 5.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI1OTgxNjIxODQ2ODI2NjkwNjI1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjYxMTc4OTIzNDQ5MjQ4NTk0MSIsImltYWdlRG9jaWQiOiIxNTgzMzk5Njg0NTc1MDA1MDUzIiwicmRzIjoiUENfMTIzMzk2NTIxNTgyMzI2NTc1MjV8UFJPRF9QQ18xMjMzOTY1MjE1ODIzMjY1NzUyNSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMjMzOTY1MjE1ODIzMjY1NzUyNSIsIm1pZCI6IjU3NjQ2MjUzNzg2OTQxMDkyNSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI1OTgxNjIxODQ2ODI2NjkwNjI1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjYxMTc4OTIzNDQ5MjQ4NTk0MSIsImltYWdlRG9jaWQiOiIxNTgzMzk5Njg0NTc1MDA1MDUzIiwicmRzIjoiUENfMTIzMzk2NTIxNTgyMzI2NTc1MjV8UFJPRF9QQ18xMjMzOTY1MjE1ODIzMjY1NzUyNSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMjMzOTY1MjE1ODIzMjY1NzUyNSIsIm1pZCI6IjU3NjQ2MjUzNzg2OTQxMDkyNSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTF0Ul1LfDYkhdx9-v9Mupehc0RLslJ2ijM9T4gN6TAk9W0YEQKOHR3Dfp9OzGK8XTf1RQ5nlbgdgMKLK_IBVvuEd80BodRa5TrM5G44Y_y4zx2Ac5AY4OYgQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Community Coffee 100% Colombia Medium Dark Roast Ground Coffee 12 oz",
+      "rating": 4.8,
+      "reviews": 86,
+      "price": "$8.97",
+      "extracted_price": 8.97,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMzg1NjMyMDUwNzcyNTk0MDIxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI0NDMxOTI3MzEwNTA3NTM3MTEiLCJpbWFnZURvY2lkIjoiODQ3MDc0NjgwNzM4MDQ1NjIxMSIsInJkcyI6IlBDXzkzNjc1Njk5MjA5NTk1NTE2OTl8UFJPRF9QQ185MzY3NTY5OTIwOTU5NTUxNjk5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjkzNjc1Njk5MjA5NTk1NTE2OTkiLCJtaWQiOiI1NzY0NjI4NTkwNzkzNDg3NTQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMzg1NjMyMDUwNzcyNTk0MDIxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI0NDMxOTI3MzEwNTA3NTM3MTEiLCJpbWFnZURvY2lkIjoiODQ3MDc0NjgwNzM4MDQ1NjIxMSIsInJkcyI6IlBDXzkzNjc1Njk5MjA5NTk1NTE2OTl8UFJPRF9QQ185MzY3NTY5OTIwOTU5NTUxNjk5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjkzNjc1Njk5MjA5NTk1NTE2OTkiLCJtaWQiOiI1NzY0NjI4NTkwNzkzNDg3NTQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqiyRyCJCyyapDL7AWDBScdHFU-U2tULahXfA0Zk-tx8oOiEZAetRBrQfbADUdpZAAMdDzatflxxWwg5md2zntKL4sPSaCas6egQm058ervJaEMt5-pAFO",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee Intense Blend Dark Roast Ground Coffee 12 Ounce Bag (Pack of 6)",
+      "rating": 4.7,
+      "reviews": 180,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTg0MzkwNjI2ODAzMzE0ODgxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2ODE2NzUyNzc2NzQ4MzQyNjciLCJpbWFnZURvY2lkIjoiNzEwMzQyODU5MjIxNDAwOTMwOCIsInJkcyI6IlBDXzk1OTc4ODg0NDMxNzg4Mzk3OTV8UFJPRF9QQ185NTk3ODg4NDQzMTc4ODM5Nzk1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijk1OTc4ODg0NDMxNzg4Mzk3OTUiLCJtaWQiOiI1NzY0NjI4NTk1ODQ2NTMwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTg0MzkwNjI2ODAzMzE0ODgxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2ODE2NzUyNzc2NzQ4MzQyNjciLCJpbWFnZURvY2lkIjoiNzEwMzQyODU5MjIxNDAwOTMwOCIsInJkcyI6IlBDXzk1OTc4ODg0NDMxNzg4Mzk3OTV8UFJPRF9QQ185NTk3ODg4NDQzMTc4ODM5Nzk1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijk1OTc4ODg0NDMxNzg4Mzk3OTUiLCJtaWQiOiI1NzY0NjI4NTk1ODQ2NTMwMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRhuBw_2WeyRy2se2j5A0ljXQzYNLQawV5pPwJcuHVCE785GQyHw_4rO8vaIW8rCUdJzm2DSBfEqPrfRXHzLy0pmvWHwOJdMTYE8469QGgDYj5Zua1Nr9Ie",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQunSkV9cWdjbbGEl8fydQDCrcImBAaisGyXjISTetptvY9KfYMN1QAE3Qgqeqg7wfFzEEGVMexQN67VYi0FuA3rkSvNghHD1oc",
+      "source": "Walgreens.com",
+      "title": "Clasico Dark Roast Instant Coffee",
+      "rating": 4.6,
+      "reviews": 6100,
+      "price": "$14.49",
+      "extracted_price": 14.49,
+      "location": "Nearby, 13 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNDcwNTY4OTY1NDIxNzQ3MTI1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0OTIzNTE1OTQ0NjY5NTA1MjgiLCJpbWFnZURvY2lkIjoiNzQ4MDg2MzAyMzI1NDc0MzY4MyIsInJkcyI6IlBDXzEwOTY2NjAyMDcyOTEwNjM0NTM3fFBST0RfUENfMTA5NjY2MDIwNzI5MTA2MzQ1MzciLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA5NjY2MDIwNzI5MTA2MzQ1MzciLCJtaWQiOiI1NzY0NjI4MTA0MDg0ODQ4NTgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNDcwNTY4OTY1NDIxNzQ3MTI1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI0OTIzNTE1OTQ0NjY5NTA1MjgiLCJpbWFnZURvY2lkIjoiNzQ4MDg2MzAyMzI1NDc0MzY4MyIsInJkcyI6IlBDXzEwOTY2NjAyMDcyOTEwNjM0NTM3fFBST0RfUENfMTA5NjY2MDIwNzI5MTA2MzQ1MzciLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA5NjY2MDIwNzI5MTA2MzQ1MzciLCJtaWQiOiI1NzY0NjI4MTA0MDg0ODQ4NTgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBRG2lMswCSad-V6EqtKpQEcZv0DkEyQb7QqD40nYY33CdM5VcUPgmO_iVZuxGVX7N9Vbj2fp3TVnv8LEXVE6fzEGQ6hVsf00jymOjQ0g",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Café Bustelo Bustelo Coffee Espresso",
+      "rating": 4.7,
+      "reviews": 8300,
+      "price": "$7.94",
+      "extracted_price": 7.94,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NzEyMTIxNDI4MDU3NTkyNTYwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzQ2ODIxODEyNTM4NzgwODgyMyIsImltYWdlRG9jaWQiOiIxNTA0NDc0MjI4OTQ2NzE5OTk0IiwicmRzIjoiUENfMzg3NDEyMDE5NDM2MjQ1NDk1fFBST0RfUENfMzg3NDEyMDE5NDM2MjQ1NDk1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjM4NzQxMjAxOTQzNjI0NTQ5NSIsIm1pZCI6IjU3NjQ2Mjc2NDI0OTQ3NTgwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NzEyMTIxNDI4MDU3NTkyNTYwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzQ2ODIxODEyNTM4NzgwODgyMyIsImltYWdlRG9jaWQiOiIxNTA0NDc0MjI4OTQ2NzE5OTk0IiwicmRzIjoiUENfMzg3NDEyMDE5NDM2MjQ1NDk1fFBST0RfUENfMzg3NDEyMDE5NDM2MjQ1NDk1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjM4NzQxMjAxOTQzNjI0NTQ5NSIsIm1pZCI6IjU3NjQ2Mjc2NDI0OTQ3NTgwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTepbyfSSWjxzy89luDnBQFjVaSlU--e-gpi05Nip1q3lLNS045BEbtX7jY9DWUDMkNo-TVtRCOi-3ZQXUaoRDLTsle2ZyMhBsD79YkVGQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Folgers Ground Coffee 100% Colombian",
+      "rating": 4.2,
+      "reviews": 3000,
+      "price": "$10.16",
+      "extracted_price": 10.16,
+      "location": "Nearby, 12 mi",
+      "delivery": "Next-day delivery $7",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5OTYwNTE2MDU1MDg3NjQyNjQ2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIyMDEzNjE5NzU4NzY2NTUwNTciLCJpbWFnZURvY2lkIjoiMTEyMzM1MTYzMTgxNDY1Mjc5MjEiLCJyZHMiOiJQQ18xMDU4NTU2NjYzOTI1MzAwNzIyNHxQUk9EX1BDXzEwNTg1NTY2NjM5MjUzMDA3MjI0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEwNTg1NTY2NjM5MjUzMDA3MjI0IiwibWlkIjoiNTc2NDYyODYwODczNjgzMTU3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5OTYwNTE2MDU1MDg3NjQyNjQ2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIyMDEzNjE5NzU4NzY2NTUwNTciLCJpbWFnZURvY2lkIjoiMTEyMzM1MTYzMTgxNDY1Mjc5MjEiLCJyZHMiOiJQQ18xMDU4NTU2NjYzOTI1MzAwNzIyNHxQUk9EX1BDXzEwNTg1NTY2NjM5MjUzMDA3MjI0IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEwNTg1NTY2NjM5MjUzMDA3MjI0IiwibWlkIjoiNTc2NDYyODYwODczNjgzMTU3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6zT6Jh6GotzAh0Ibkln4Nj9w3tZo7Fn6GqsB2w4O67YAEnOkLSRYEb8lsRVm1vv-VCNqbBqJKLmqPqVTdn5axfRtEM3gj5ryDEzM5__sB_Ita3Wlqg6bu",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Community Coffee Breakfast Blend Ground Coffee 40 oz",
+      "rating": 4.7,
+      "reviews": 1300,
+      "price": "$23.63",
+      "extracted_price": 23.63,
+      "location": "Nearby, 13 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI4MzYxNDE5OTIxMDgxNTg1Njg2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDQxMzk2MTIxMzgxODk4MiIsImltYWdlRG9jaWQiOiIxMTUzNzY4NjIxNzYxMTYwOTA5NyIsInJkcyI6IlBDXzE4MzUyODQ0MjEyNTU2NjcwNDUyfFBST0RfUENfMTgzNTI4NDQyMTI1NTY2NzA0NTIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTgzNTI4NDQyMTI1NTY2NzA0NTIiLCJtaWQiOiI1NzY0NjI4MTA1Mjc4OTU4NDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI4MzYxNDE5OTIxMDgxNTg1Njg2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDQxMzk2MTIxMzgxODk4MiIsImltYWdlRG9jaWQiOiIxMTUzNzY4NjIxNzYxMTYwOTA5NyIsInJkcyI6IlBDXzE4MzUyODQ0MjEyNTU2NjcwNDUyfFBST0RfUENfMTgzNTI4NDQyMTI1NTY2NzA0NTIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTgzNTI4NDQyMTI1NTY2NzA0NTIiLCJtaWQiOiI1NzY0NjI4MTA1Mjc4OTU4NDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ28ko2WEKx35udZoCGUfY_8gGZUSxbv_uHJe6ayivqa7NAxh-c7TsdkZadFApC9wQlDJthJyAlZNGBTRBBuBlDW6uTbNmAHaFfqp3T8WEkItfltC_NUPr8BA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Great Value Classic Medium Roast Ground Coffee",
+      "rating": 4.2,
+      "reviews": 2500,
+      "price": "$19.77",
+      "extracted_price": 19.77,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5NDg1MDA1NTQ4NjcyNzkzMjUwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE4MzM2NjIyMjc2OTU3NTM3OTEiLCJpbWFnZURvY2lkIjoiMTcyMTQzMjAyMDQ4NzkyNDcyNTMiLCJyZHMiOiJQQ183NjI2OTE1NzcyNzQyNTMzODAwfFBST0RfUENfNzYyNjkxNTc3Mjc0MjUzMzgwMCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3NjI2OTE1NzcyNzQyNTMzODAwIiwibWlkIjoiNTc2NDYyNDM5NTY4NDMwNzMwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5NDg1MDA1NTQ4NjcyNzkzMjUwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTE4MzM2NjIyMjc2OTU3NTM3OTEiLCJpbWFnZURvY2lkIjoiMTcyMTQzMjAyMDQ4NzkyNDcyNTMiLCJyZHMiOiJQQ183NjI2OTE1NzcyNzQyNTMzODAwfFBST0RfUENfNzYyNjkxNTc3Mjc0MjUzMzgwMCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3NjI2OTE1NzcyNzQyNTMzODAwIiwibWlkIjoiNTc2NDYyNDM5NTY4NDMwNzMwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvFWnrhMh9yj3AFnSyfZPVcw6D58k1Eey0heKlytzLDv92xR3Tk3hSa12IXvWuX4Ka7BEcL66qF6JfYOsD5cQByxaRhaeB0Wis2gXDwQyqjxyTDAZpUxGWAQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee French Vanilla Ground Coffee",
+      "rating": 4.6,
+      "reviews": 126,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMDkyODQxODU1MTQwMjg1ODAzMyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1ODQ2MTc2MjQzODQ5ODQxNzMzIiwiaW1hZ2VEb2NpZCI6IjgyMTA0NTM2MDQyMzY1MzgxMzEiLCJyZHMiOiJQQ183NDY5OTA0ODEyNzM0Njc2MjQ3fFBST0RfUENfNzQ2OTkwNDgxMjczNDY3NjI0NyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3NDY5OTA0ODEyNzM0Njc2MjQ3IiwibWlkIjoiNTc2NDYyODc5NTgzNTIzMjYzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMDkyODQxODU1MTQwMjg1ODAzMyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1ODQ2MTc2MjQzODQ5ODQxNzMzIiwiaW1hZ2VEb2NpZCI6IjgyMTA0NTM2MDQyMzY1MzgxMzEiLCJyZHMiOiJQQ183NDY5OTA0ODEyNzM0Njc2MjQ3fFBST0RfUENfNzQ2OTkwNDgxMjczNDY3NjI0NyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3NDY5OTA0ODEyNzM0Njc2MjQ3IiwibWlkIjoiNTc2NDYyODc5NTgzNTIzMjYzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpzlmeLWdZ9tvV7AUUi3h4hICSBAHWWSsjerosvZhjiFSCaWBUZwx_969xMengIbQRpPKlXRCfDye2I7wlBDh_MkRWDXtF9SHzc5FRo-ETAAO2JCvSSkwY",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Community Coffee Mardi Gras King Cake Ground Coffee",
+      "rating": 4.7,
+      "reviews": 758,
+      "price": "$8.97",
+      "extracted_price": 8.97,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIyNDMyNDc0MjcyMDQ0MjMzMDUxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY2NTkwMTc3NDY2MDA4MDgzMyIsImltYWdlRG9jaWQiOiIxNzE3ODQxMDQ1MTgzNjAwMzI5IiwicmRzIjoiUENfMTA1OTU3NDQ4NzM5MzE2MjkwOTF8UFJPRF9QQ18xMDU5NTc0NDg3MzkzMTYyOTA5MSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDU5NTc0NDg3MzkzMTYyOTA5MSIsIm1pZCI6IjU3NjQ2MjgxMDkyNDk2ODk5MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIyNDMyNDc0MjcyMDQ0MjMzMDUxIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY2NTkwMTc3NDY2MDA4MDgzMyIsImltYWdlRG9jaWQiOiIxNzE3ODQxMDQ1MTgzNjAwMzI5IiwicmRzIjoiUENfMTA1OTU3NDQ4NzM5MzE2MjkwOTF8UFJPRF9QQ18xMDU5NTc0NDg3MzkzMTYyOTA5MSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDU5NTc0NDg3MzkzMTYyOTA5MSIsIm1pZCI6IjU3NjQ2MjgxMDkyNDk2ODk5MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgUvULsiAOhxM9ogeF0wXNwejZx_5pip09BLzMLKAOjXqw-zxzr8EXFLVAUFdpJ6Jq_yVPLN9YYBXw2TPA3vOZVjtgd8Edv5Nt-gaeFvc",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Dunkin Donuts Ground Coffee Original Blend",
+      "rating": 4.6,
+      "reviews": 11000,
+      "price": "$23.42",
+      "extracted_price": 23.42,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI0ODgyMjg1MjIyNDMxNjA2MzYyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjk1NDA1NDM4NDM2MTc2NDU5NCIsImltYWdlRG9jaWQiOiIxMzEyMzg2MTcyNTE1NzQ4NTk5MyIsInJkcyI6IlBDXzg0ODE1Mjc1MDUxNDQxOTQ0MDh8UFJPRF9QQ184NDgxNTI3NTA1MTQ0MTk0NDA4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJtaWQiOiI1NzY0NjI0MjI5Njg0NDUxMjgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI0ODgyMjg1MjIyNDMxNjA2MzYyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjk1NDA1NDM4NDM2MTc2NDU5NCIsImltYWdlRG9jaWQiOiIxMzEyMzg2MTcyNTE1NzQ4NTk5MyIsInJkcyI6IlBDXzg0ODE1Mjc1MDUxNDQxOTQ0MDh8UFJPRF9QQ184NDgxNTI3NTA1MTQ0MTk0NDA4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJtaWQiOiI1NzY0NjI0MjI5Njg0NDUxMjgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsBgoDJciWIWpcd8x75ufobxe-nLHbo16AyQgY0D5dnaMwQsg1HLwC11L5kuLnFkb6zovT3SZh_pvARpgBgvq1lxv33wa7qwCKo1MWabUMOoTBjKOp_DtnrA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Community Coffee Cafe Special Medium Dark Roast Ground Coffee 40 oz",
+      "rating": 4.9,
+      "reviews": 202,
+      "price": "$23.63",
+      "extracted_price": 23.63,
+      "location": "Nearby, 13 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMTcxOTAzNzcwNjc5NzYwMTY4IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxOTQxNzIxOTcxMDU0MzQ2OTUiLCJpbWFnZURvY2lkIjoiMTE0MTcxNzIwMjI1ODQ2MzA3NyIsInJkcyI6IlBDXzI5MTgxMjY5NDA3NDcyNTg5NTZ8UFJPRF9QQ18yOTE4MTI2OTQwNzQ3MjU4OTU2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI5MTgxMjY5NDA3NDcyNTg5NTYiLCJtaWQiOiI1NzY0NjI1NDM2OTM1Mzc3OTgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMTcxOTAzNzcwNjc5NzYwMTY4IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcxOTQxNzIxOTcxMDU0MzQ2OTUiLCJpbWFnZURvY2lkIjoiMTE0MTcxNzIwMjI1ODQ2MzA3NyIsInJkcyI6IlBDXzI5MTgxMjY5NDA3NDcyNTg5NTZ8UFJPRF9QQ18yOTE4MTI2OTQwNzQ3MjU4OTU2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI5MTgxMjY5NDA3NDcyNTg5NTYiLCJtaWQiOiI1NzY0NjI1NDM2OTM1Mzc3OTgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShGM8SdW7c3sFBDssOyzGb4azhF5Ks7l_jle-W5ucb9U6Zth1JPPoJ5m4CwbWjEAEtvgOL76I6ILTsFoPLGduS5PhRojZ4llMdlMe-o_wC",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee Dark Roast Whole Bean Coffee",
+      "rating": 4.7,
+      "reviews": 254,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI2MDg1NTQ5OTUwNDkyMTY1MTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjU0NzMxMzk1ODA4NDY4OTk4IiwiaW1hZ2VEb2NpZCI6Ijk0NDY0OTE2Mzc3Mzk5NjA5MzQiLCJyZHMiOiJQQ18xMjM0MzgyMDQwOTk3MjU1NTE4M3xQUk9EX1BDXzEyMzQzODIwNDA5OTcyNTU1MTgzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyMzQzODIwNDA5OTcyNTU1MTgzIiwibWlkIjoiNTc2NDYyNTQ5MTc1NDYxMTA1IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI2MDg1NTQ5OTUwNDkyMTY1MTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NjU0NzMxMzk1ODA4NDY4OTk4IiwiaW1hZ2VEb2NpZCI6Ijk0NDY0OTE2Mzc3Mzk5NjA5MzQiLCJyZHMiOiJQQ18xMjM0MzgyMDQwOTk3MjU1NTE4M3xQUk9EX1BDXzEyMzQzODIwNDA5OTcyNTU1MTgzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyMzQzODIwNDA5OTcyNTU1MTgzIiwibWlkIjoiNTc2NDYyNTQ5MTc1NDYxMTA1IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLZmRhkjeb1u4IVfgJ7RdCGspXqSSuUrPXlr4a37o_I_EyyNU72PECUfdaPz06Bs2SvR8zoSSPPCtGyfFXX4JvAJkc6VdfUWv_aGk_ovbBmU_4DSDsrbqu",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Community Coffee Dark Roast Ground Coffee",
+      "rating": 4.8,
+      "reviews": 2500,
+      "price": "$8.97",
+      "extracted_price": 8.97,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxODMyNTUyMzc1NjE4MzYyMDMyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU5NjIwOTg5MjA1OTE2Nzk2MjEiLCJpbWFnZURvY2lkIjoiMTY2MjM2NTg5OTIxMjE5MTI5NTkiLCJyZHMiOiJQQ18xMzk4ODM0OTY5ODA3MDIxODYxNnxQUk9EX1BDXzEzOTg4MzQ5Njk4MDcwMjE4NjE2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEzOTg4MzQ5Njk4MDcwMjE4NjE2IiwibWlkIjoiNTc2NDYyODUzMTM0NTk0Njg5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxODMyNTUyMzc1NjE4MzYyMDMyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU5NjIwOTg5MjA1OTE2Nzk2MjEiLCJpbWFnZURvY2lkIjoiMTY2MjM2NTg5OTIxMjE5MTI5NTkiLCJyZHMiOiJQQ18xMzk4ODM0OTY5ODA3MDIxODYxNnxQUk9EX1BDXzEzOTg4MzQ5Njk4MDcwMjE4NjE2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEzOTg4MzQ5Njk4MDcwMjE4NjE2IiwibWlkIjoiNTc2NDYyODUzMTM0NTk0Njg5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9WPRJcr6VLJJrohjhVKOIZnrHM_tUr2cdlj27ZZa7JK4_SWTvd1fczXpRfaClSs2JhhzET39oNh4otKfmDY0n7aA1VDWlLj7Q5LTnL8SXSeXj0aSlZd-l",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Eight O Clock Coffee Original Whole Bean",
+      "rating": 4.7,
+      "reviews": 2000,
+      "price": "$20.12",
+      "extracted_price": 20.12,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTI5NTkxMjk4MjYzMzI2OTA4NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDExNjgxODgxNjI3ODM0MjI2IiwiaW1hZ2VEb2NpZCI6IjE0OTk1ODY0NDUwMzc4MjIzMTU3IiwicmRzIjoiUENfMTM4MDM1NzIxNTA4OTA4ODA1OTV8UFJPRF9QQ18xMzgwMzU3MjE1MDg5MDg4MDU5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzgwMzU3MjE1MDg5MDg4MDU5NSIsIm1pZCI6IjU3NjQ2Mjg1MjU4Mzg2NTE1MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTI5NTkxMjk4MjYzMzI2OTA4NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2MDExNjgxODgxNjI3ODM0MjI2IiwiaW1hZ2VEb2NpZCI6IjE0OTk1ODY0NDUwMzc4MjIzMTU3IiwicmRzIjoiUENfMTM4MDM1NzIxNTA4OTA4ODA1OTV8UFJPRF9QQ18xMzgwMzU3MjE1MDg5MDg4MDU5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMzgwMzU3MjE1MDg5MDg4MDU5NSIsIm1pZCI6IjU3NjQ2Mjg1MjU4Mzg2NTE1MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZ3-PvGjzKR_tZeX5C04lz2iGypabkG3_xPNa1HfvqryHNlwqf3_pJ_zZZlTZ_zaDPdnWg6W6x6YGSxYZRj1nhFlVs4LrMkqUwl2r_YoVYZ0IAeFljhONp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Great Value Classic Medium Roast Instant Coffee",
+      "rating": 4.3,
+      "reviews": 1400,
+      "price": "$5.42",
+      "extracted_price": 5.42,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNzcyOTc1Mjk2Njc2MTY3ODU3OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4Mjc1MTQxMTgxMTE5MzE1MzIwIiwiaW1hZ2VEb2NpZCI6IjExMTA3MTg4NDk0MDY5ODUwNDA5IiwicmRzIjoiUENfMTAzMTIxNTQzNzYyNTg2MTc4NjN8UFJPRF9QQ18xMDMxMjE1NDM3NjI1ODYxNzg2MyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDMxMjE1NDM3NjI1ODYxNzg2MyIsIm1pZCI6IjU3NjQ2MjMzMzA0NTI4NjgxMyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNzcyOTc1Mjk2Njc2MTY3ODU3OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4Mjc1MTQxMTgxMTE5MzE1MzIwIiwiaW1hZ2VEb2NpZCI6IjExMTA3MTg4NDk0MDY5ODUwNDA5IiwicmRzIjoiUENfMTAzMTIxNTQzNzYyNTg2MTc4NjN8UFJPRF9QQ18xMDMxMjE1NDM3NjI1ODYxNzg2MyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDMxMjE1NDM3NjI1ODYxNzg2MyIsIm1pZCI6IjU3NjQ2MjMzMzA0NTI4NjgxMyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSHjoRhExmjL6FOoz9GAO6j4lPLzndT1i6dvRUg5gdwzTL37MwJ29_7PnmW0RkQr8aTGAPO4VUr06M3NZau_J1r5x1awtUSGOCDyyh2fcy4Mr3LFz4Sb1zy9g",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgDJw2mofi7kQOWQDu65XUMCogtBFyaL3uW1_L0YswzEotE9DR3MUFprG9U6UTG7noAIxhyS1gZPaJReHMyGVoRNkSYQ",
+      "source": "H-E-B",
+      "title": "Community Coffee Pecan Praline Medium Roast Ground",
+      "rating": 4.6,
+      "reviews": 570,
+      "price": "$8.97",
+      "extracted_price": 8.97,
+      "location": "Nearby, 16 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI4MzQ2OTQ3MTk3OTM4MzgyMjgyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDk3MzE1MDMyMjQ4NzYyNjEyMyIsImltYWdlRG9jaWQiOiI2NTgwOTA1OTY4MzIwMTU3NzE5IiwicmRzIjoiUENfMTAwODc4OTIxNjc0NzI1NTc5M3xQUk9EX1BDXzEwMDg3ODkyMTY3NDcyNTU3OTMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTAwODc4OTIxNjc0NzI1NTc5MyIsIm1pZCI6IjU3NjQ2MjgzNDE4OTY3NTQ1NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI4MzQ2OTQ3MTk3OTM4MzgyMjgyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNDk3MzE1MDMyMjQ4NzYyNjEyMyIsImltYWdlRG9jaWQiOiI2NTgwOTA1OTY4MzIwMTU3NzE5IiwicmRzIjoiUENfMTAwODc4OTIxNjc0NzI1NTc5M3xQUk9EX1BDXzEwMDg3ODkyMTY3NDcyNTU3OTMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTAwODc4OTIxNjc0NzI1NTc5MyIsIm1pZCI6IjU3NjQ2MjgzNDE4OTY3NTQ1NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCXsQUh91rMBNTPitehGAsbIIphKH4mjYCZ4UKqwURdgEishp30TXDg7oA_iVAU2XF2J7HNlSWhkq2MsERywo-10ETp5iE77sljDoG5F60HbWWGDanKi7jbw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee Cafe Special Medium-Dark Roast Ground Coffee",
+      "rating": 4.7,
+      "reviews": 605,
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI0NjU4MzQ1ODA5MDEwNTY4NzI1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxNDkyMDU4NzIzMjExNDYzMzIiLCJpbWFnZURvY2lkIjoiMTY2NjA1NDk1MjQ3MjY0OTYyODgiLCJyZHMiOiJQQ18xNjczODk2ODIyNjAyMTMwNTQyfFBST0RfUENfMTY3Mzg5NjgyMjYwMjEzMDU0MiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNjczODk2ODIyNjAyMTMwNTQyIiwibWlkIjoiNTc2NDYyODU3OTYyNDAzMTg4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI0NjU4MzQ1ODA5MDEwNTY4NzI1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUxNDkyMDU4NzIzMjExNDYzMzIiLCJpbWFnZURvY2lkIjoiMTY2NjA1NDk1MjQ3MjY0OTYyODgiLCJyZHMiOiJQQ18xNjczODk2ODIyNjAyMTMwNTQyfFBST0RfUENfMTY3Mzg5NjgyMjYwMjEzMDU0MiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNjczODk2ODIyNjAyMTMwNTQyIiwibWlkIjoiNTc2NDYyODU3OTYyNDAzMTg4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIKJginnl1gs-yAvO4mWT3WUByqRPeZqwQ2uUddux4mz0N-2uW22_FfHtx4Qg7gveZniZ8uLd5ZWG7hNfTsOSSTPFt1aDWjNLO-pHmG5AB",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Folgers Breakfast Blend Ground Coffee",
+      "rating": 4.5,
+      "reviews": 1600,
+      "price": "$16.12",
+      "extracted_price": 16.12,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNzEzMDMzMzk1MDcxOTgzMTE5NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU3OTg1NzQ4NjE3NzA4NTIxNzAiLCJpbWFnZURvY2lkIjoiMjc2MTE0ODE1MTYxMTkwNTAwMSIsInJkcyI6IlBDXzE1ODkyMjM3NjM4ODk2NTIwNTA3fFBST0RfUENfMTU4OTIyMzc2Mzg4OTY1MjA1MDciLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTU4OTIyMzc2Mzg4OTY1MjA1MDciLCJtaWQiOiI1NzY0NjI3NzQ2MzkxNTI3MDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNzEzMDMzMzk1MDcxOTgzMTE5NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU3OTg1NzQ4NjE3NzA4NTIxNzAiLCJpbWFnZURvY2lkIjoiMjc2MTE0ODE1MTYxMTkwNTAwMSIsInJkcyI6IlBDXzE1ODkyMjM3NjM4ODk2NTIwNTA3fFBST0RfUENfMTU4OTIyMzc2Mzg4OTY1MjA1MDciLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTU4OTIyMzc2Mzg4OTY1MjA1MDciLCJtaWQiOiI1NzY0NjI3NzQ2MzkxNTI3MDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKhruav6pLHkX2k64W_U_5IhFW7dRaBDri5WQnVFTgd20XvcWgh_bupW__fqefXKRySsnRgxFR90uXu8MBoDr34SVqFlIoZxxBBJqDuIw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee Breakfast Blend Medium Roast Whole Bean",
+      "rating": 4.5,
+      "reviews": 175,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NDIyNTc1MTM1Njg4ODU5OTE1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzg0ODkwODM0MDU0MjA1NjczMiIsImltYWdlRG9jaWQiOiIxMDk1NjAyMDQ5OTcyNDkxMTAyMyIsInJkcyI6IlBDXzI5NDAyNTM2MzM2NzI1NTAxNzB8UFJPRF9QQ18yOTQwMjUzNjMzNjcyNTUwMTcwIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI5NDAyNTM2MzM2NzI1NTAxNzAiLCJtaWQiOiI1NzY0NjI4NjI0NjA0NzM1MjQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NDIyNTc1MTM1Njg4ODU5OTE1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzg0ODkwODM0MDU0MjA1NjczMiIsImltYWdlRG9jaWQiOiIxMDk1NjAyMDQ5OTcyNDkxMTAyMyIsInJkcyI6IlBDXzI5NDAyNTM2MzM2NzI1NTAxNzB8UFJPRF9QQ18yOTQwMjUzNjMzNjcyNTUwMTcwIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI5NDAyNTM2MzM2NzI1NTAxNzAiLCJtaWQiOiI1NzY0NjI4NjI0NjA0NzM1MjQiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMbYkOW-vlnu--nBv3PigxLy_oOFEl_gIQtWuDHpMtwfNtIs7PSjOeERGZVgTm0JSMI9xe-tg4CUPJF93sVrNy907GSPaQdwi_h8FeVPjZ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Community Coffee Special Decaf Medium-Dark Roast",
+      "rating": 4.7,
+      "reviews": 493,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "original_price": "$9.59",
+      "extracted_original_price": 9.59,
+      "location": "Nearby, 15 mi",
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMTkwMDI4Mjk1OTA3NDUyNDEwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0NjU3NDc1Nzg5NDUyMjI5NjkiLCJpbWFnZURvY2lkIjoiNDE1MDczMjQ3ODcxOTg0MjMwOCIsInJkcyI6IlBDXzEwNDU4NDYxNjgyMzA5NzUxNzY2fFBST0RfUENfMTA0NTg0NjE2ODIzMDk3NTE3NjYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA0NTg0NjE2ODIzMDk3NTE3NjYiLCJtaWQiOiI1NzY0NjI4NzI4MTY4NzU0NzYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMTkwMDI4Mjk1OTA3NDUyNDEwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0NjU3NDc1Nzg5NDUyMjI5NjkiLCJpbWFnZURvY2lkIjoiNDE1MDczMjQ3ODcxOTg0MjMwOCIsInJkcyI6IlBDXzEwNDU4NDYxNjgyMzA5NzUxNzY2fFBST0RfUENfMTA0NTg0NjE2ODIzMDk3NTE3NjYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA0NTg0NjE2ODIzMDk3NTE3NjYiLCJtaWQiOiI1NzY0NjI4NzI4MTY4NzU0NzYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5S8c7PykVlp2deoJLQxU2cunIHFdz8XKK9SKPALBnmmJb1wfLsUsEzPSdqYAO_JJQvbTwVooxdxmuYwol7FmYvrDd8r_DaFnn3dJMEmA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Cafe Bustelo Medium Roast Ground Coffee 11 oz",
+      "rating": 4.7,
+      "reviews": 1100,
+      "price": "$10.62",
+      "extracted_price": 10.62,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMTQzNDM1ODEyOTMwNTU3MDUzIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU5NTc0MDY5Mzk4OTMyOTk3NDMiLCJpbWFnZURvY2lkIjoiMTM4OTYwNDgwMTI3NDc1MTQyNTEiLCJyZHMiOiJQQ180NDcyMDU5NzAwMTI4NDc2NTN8UFJPRF9QQ180NDcyMDU5NzAwMTI4NDc2NTMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNDQ3MjA1OTcwMDEyODQ3NjUzIiwibWlkIjpudWxsLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxMTQzNDM1ODEyOTMwNTU3MDUzIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTU5NTc0MDY5Mzk4OTMyOTk3NDMiLCJpbWFnZURvY2lkIjoiMTM4OTYwNDgwMTI3NDc1MTQyNTEiLCJyZHMiOiJQQ180NDcyMDU5NzAwMTI4NDc2NTN8UFJPRF9QQ180NDcyMDU5NzAwMTI4NDc2NTMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNDQ3MjA1OTcwMDEyODQ3NjUzIiwibWlkIjpudWxsLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfZhEPBNIzjtbSQWMe8-gyycPE_QGTw27hz45VIHjARqsV0wmYm-vaSob-dp5YskmeJvMh2CYJOp7nuGl_lGfnUIph4g0N2wdzLrhA-ZVQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee American Classic Ground Coffee Medium Roast",
+      "rating": 4.7,
+      "reviews": 614,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMTkyNTY0ODExOTQwMDg5NzYyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3OTU2OTgzNjIwNDkzNjcyNzgiLCJpbWFnZURvY2lkIjoiOTAzNDk0MDg2MDU5NTQ1MDgxNCIsInJkcyI6IlBDXzI3NTA3NDMzODQ2MDM5ODgyMDd8UFJPRF9QQ18yNzUwNzQzMzg0NjAzOTg4MjA3IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI3NTA3NDMzODQ2MDM5ODgyMDciLCJtaWQiOiI1NzY0NjI3NzU1MjM1NzU4MTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIzMTkyNTY0ODExOTQwMDg5NzYyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTM3OTU2OTgzNjIwNDkzNjcyNzgiLCJpbWFnZURvY2lkIjoiOTAzNDk0MDg2MDU5NTQ1MDgxNCIsInJkcyI6IlBDXzI3NTA3NDMzODQ2MDM5ODgyMDd8UFJPRF9QQ18yNzUwNzQzMzg0NjAzOTg4MjA3IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjI3NTA3NDMzODQ2MDM5ODgyMDciLCJtaWQiOiI1NzY0NjI3NzU1MjM1NzU4MTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSMf8LaiQ5Ei-k2npgBVsBn339tmhw-09HcrS7vMX1UZeSs6sHxQU9vvo0FAmmetWJZ_mor18n8RtQgNfeJysU-PcUFhidNW9gyVvrWRrld",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTNUmppK-lnis9Xc6-QCWT3x4BEvuDTG1ZAlAUnb8JBMDAshETTiOzHhWyu2oKq1x0mUGc1VjECakwvPIAAdUlal-n2wCqxGOotZg",
+      "source": "Randalls",
+      "title": "Community Coffee Half Caff Ground",
+      "rating": 4.8,
+      "reviews": 331,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIyODM1NzY5NTA5OTc0MDQxOTM2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2MjgwNDEyOTMzNjc4MTIwNTUiLCJpbWFnZURvY2lkIjoiOTc3MTU0OTExMjkxNDA4MjgwNyIsInJkcyI6IlBDXzU1OTgwMTQ2MTQxNjk3NjAzMzl8UFJPRF9QQ181NTk4MDE0NjE0MTY5NzYwMzM5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjU1OTgwMTQ2MTQxNjk3NjAzMzkiLCJtaWQiOiI1NzY0NjI4NTQ2OTIwNDIwOTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIyODM1NzY5NTA5OTc0MDQxOTM2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTI2MjgwNDEyOTMzNjc4MTIwNTUiLCJpbWFnZURvY2lkIjoiOTc3MTU0OTExMjkxNDA4MjgwNyIsInJkcyI6IlBDXzU1OTgwMTQ2MTQxNjk3NjAzMzl8UFJPRF9QQ181NTk4MDE0NjE0MTY5NzYwMzM5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjU1OTgwMTQ2MTQxNjk3NjAzMzkiLCJtaWQiOiI1NzY0NjI4NTQ2OTIwNDIwOTkiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKMksA_AuvmYDkD-Hri7wxKyMJ-i10GJ-9D6e53Cft4W-lCXJsaRyd6S4TMIoDJPOfNYkoGpVD-g1hKRuDeJQA8b110m4Ujlu_Sf7PaDjtfJPbwrLYPnre",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcROLa38-nzmN8p_2S810bnpYEfqvEZTXF6oTV1UuvR5hVV_21Mgfvwlen-ZzqDqMtuF_qBXRpPdSva_9KvAPBL5rrRcc6eeOg",
+      "source": "Cabela's",
+      "title": "Black Rifle Coffee Company Happy Hunting Ground Coffee Bag",
+      "rating": 4.8,
+      "reviews": 4,
+      "price": "$17.49",
+      "extracted_price": 17.49,
+      "location": "Nearby, 19 mi",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxODE2MTg5NTU1MjgzODU4MjAxNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMDQ5NTQ2NTIzNDYxNzQ3OTkwIiwiaW1hZ2VEb2NpZCI6IjEyNDgzNzc0NDMwNDQ2MTM3MDQxIiwicmRzIjoiUENfNTI0NDk1ODk2MzA4NzkwODkzNXxQUk9EX1BDXzUyNDQ5NTg5NjMwODc5MDg5MzUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNTI0NDk1ODk2MzA4NzkwODkzNSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxODE2MTg5NTU1MjgzODU4MjAxNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMDQ5NTQ2NTIzNDYxNzQ3OTkwIiwiaW1hZ2VEb2NpZCI6IjEyNDgzNzc0NDMwNDQ2MTM3MDQxIiwicmRzIjoiUENfNTI0NDk1ODk2MzA4NzkwODkzNXxQUk9EX1BDXzUyNDQ5NTg5NjMwODc5MDg5MzUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNTI0NDk1ODk2MzA4NzkwODkzNSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgA_KKx37szJiCicyfNvjUOORxCblFDcKWgd7WDNgzSGsdoy0LyV_vAj6cEyahMbHMDEO8N1anJtDnmnxY35pvnvINi1eQJ9e4Oo7DhGQORTCgOdVLd15U5Q",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Community Coffee House Blend Medium Dark Roast Ground Coffee",
+      "rating": 4.7,
+      "reviews": 210,
+      "price": "$8.97",
+      "extracted_price": 8.97,
+      "location": "Nearby, 15 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5MTk2NjMxMzI3NDQzMDk0Njg3IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUzMzg1Mzc1ODU0NTE3OTU0MzUiLCJpbWFnZURvY2lkIjoiMTE1OTIzMjkyNTY2MTYxMDQ3MTIiLCJyZHMiOiJQQ180ODAxODkxOTQ2NjM0NjkwNjU0fFBST0RfUENfNDgwMTg5MTk0NjYzNDY5MDY1NCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0ODAxODkxOTQ2NjM0NjkwNjU0IiwibWlkIjoiNTc2NDYyODQxMjU2NTg3OTUzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI5MTk2NjMxMzI3NDQzMDk0Njg3IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUzMzg1Mzc1ODU0NTE3OTU0MzUiLCJpbWFnZURvY2lkIjoiMTE1OTIzMjkyNTY2MTYxMDQ3MTIiLCJyZHMiOiJQQ180ODAxODkxOTQ2NjM0NjkwNjU0fFBST0RfUENfNDgwMTg5MTk0NjYzNDY5MDY1NCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI0ODAxODkxOTQ2NjM0NjkwNjU0IiwibWlkIjoiNTc2NDYyODQxMjU2NTg3OTUzIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTSh2ysrd4_qusTrKAHT5aoyMRlWowjMSDLNbkA5Im3dJe97614pVKhOe2NuAUSDpMEIYvRAnGg8fGA6LtuNj2FlR-QVJD3piAM4W5GzVU4G1PY5qlAd-UBRg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcROLa38-nzmN8p_2S810bnpYEfqvEZTXF6oTV1UuvR5hVV_21Mgfvwlen-ZzqDqMtuF_qBXRpPdSva_9KvAPBL5rrRcc6eeOg",
+      "source": "Cabela's",
+      "title": "Black Rifle Coffee Company Silencer Smooth Coffee",
+      "rating": 4.8,
+      "reviews": 419,
+      "price": "$17.49",
+      "extracted_price": 17.49,
+      "location": "Nearby, 19 mi",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTY5MTAxNjczMzY5MTUyMDg5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgwMzE4NTMzNjQzNzIzNDMzMzYiLCJpbWFnZURvY2lkIjoiOTI5MTk0NjM2MTczNDU4MDE3IiwicmRzIjoiUENfNDAzOTk5OTM3OTAyMDg0OTU2NXxQUk9EX1BDXzQwMzk5OTkzNzkwMjA4NDk1NjUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNDAzOTk5OTM3OTAyMDg0OTU2NSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiIxNTY5MTAxNjczMzY5MTUyMDg5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgwMzE4NTMzNjQzNzIzNDMzMzYiLCJpbWFnZURvY2lkIjoiOTI5MTk0NjM2MTczNDU4MDE3IiwicmRzIjoiUENfNDAzOTk5OTM3OTAyMDg0OTU2NXxQUk9EX1BDXzQwMzk5OTkzNzkwMjA4NDk1NjUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNDAzOTk5OTM3OTAyMDg0OTU2NSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7UXpTlTBo-kl84Cad4WQd-2SyahyilPCZ7LGZ9tgDeZdSXMtJcOlVpvZdjQWhzH7_i3mr_51F2oYfzDNrwrbgN-g_YWWnd2lHeZojprowzdnQI0sbRS5eCQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcROLa38-nzmN8p_2S810bnpYEfqvEZTXF6oTV1UuvR5hVV_21Mgfvwlen-ZzqDqMtuF_qBXRpPdSva_9KvAPBL5rrRcc6eeOg",
+      "source": "Cabela's",
+      "title": "Black Rifle Coffee Company Gunship",
+      "rating": 4.8,
+      "reviews": 553,
+      "price": "$17.49",
+      "extracted_price": 17.49,
+      "location": "Nearby, 19 mi",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI1OTU3MzM1NTY0NDQxMTM3OTU1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTQ5NDgyNzIyMjI1MjExOTYxIiwiaW1hZ2VEb2NpZCI6IjEyMjAwMDk0MTY5NTIwMTkwNTg0IiwicmRzIjoiUENfMjgyMTg1NTU4MjEzMTk3ODk5MXxQUk9EX1BDXzI4MjE4NTU1ODIxMzE5Nzg5OTEiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMjgyMTg1NTU4MjEzMTk3ODk5MSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI1OTU3MzM1NTY0NDQxMTM3OTU1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNTQ5NDgyNzIyMjI1MjExOTYxIiwiaW1hZ2VEb2NpZCI6IjEyMjAwMDk0MTY5NTIwMTkwNTg0IiwicmRzIjoiUENfMjgyMTg1NTU4MjEzMTk3ODk5MXxQUk9EX1BDXzI4MjE4NTU1ODIxMzE5Nzg5OTEiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMjgyMTg1NTU4MjEzMTk3ODk5MSIsIm1pZCI6bnVsbCwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS1H4nackSbkP_FLm4QHa7VMRF0nQNW51f4-Ky85gApUDIy6bnI7Q-EUMqPz8W_oYgOZ53MjADqP0pxXDdE63GGRwc1mN7YJp1RiTniLC9ZscB6mi0OWLKI9w",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcROLa38-nzmN8p_2S810bnpYEfqvEZTXF6oTV1UuvR5hVV_21Mgfvwlen-ZzqDqMtuF_qBXRpPdSva_9KvAPBL5rrRcc6eeOg",
+      "source": "Cabela's",
+      "title": "Black Rifle Coffee Company Freedom Roast Whole Bean Coffee",
+      "rating": 4.8,
+      "reviews": 787,
+      "price": "$17.49",
+      "extracted_price": 17.49,
+      "location": "Nearby, 19 mi",
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NTUwMDc4OTQ3ODU5OTI1MTM1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjM2NDY1NjY1Mzg2MDI1Mjc5NCIsImltYWdlRG9jaWQiOiI1MjM0NjYzMDA0NjcxODAyNzE5IiwicmRzIjoiUENfODY1NzQ1MzYxNzM4MTc3NjYyM3xQUk9EX1BDXzg2NTc0NTM2MTczODE3NzY2MjMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODY1NzQ1MzYxNzM4MTc3NjYyMyIsIm1pZCI6IjU3NjQ2MjQ3NzI5OTUwMTk4NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjpudWxsLCJjYXRhbG9naWQiOiI3NTUwMDc4OTQ3ODU5OTI1MTM1IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMjM2NDY1NjY1Mzg2MDI1Mjc5NCIsImltYWdlRG9jaWQiOiI1MjM0NjYzMDA0NjcxODAyNzE5IiwicmRzIjoiUENfODY1NzQ1MzYxNzM4MTc3NjYyM3xQUk9EX1BDXzg2NTc0NTM2MTczODE3NzY2MjMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODY1NzQ1MzYxNzM4MTc3NjYyMyIsIm1pZCI6IjU3NjQ2MjQ3NzI5OTUwMTk4NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTyiImkxm7BL7GGtNo3eTT3YchvlhF9N6A5fg92bH1gXOoc4Ge2JumU5jzDDB5Df0Z-7bIz-Yi3DfDymwcdOyYdRkUGhln0dtjQDjQdP_caCgiSqkMLD-iX",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Folgers Classic Roast Ground Coffee",
+      "rating": 4.5,
+      "reviews": 19000,
+      "price": "$7.88",
+      "extracted_price": 7.88,
+      "original_price": "$8.97",
+      "extracted_original_price": 8.97,
+      "location": "Nearby, 12 mi",
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT52AYdAhnHGtUuYxI5vXHQRbTIZ23EEUcEnw3vp8bP6rTTYgOUgn74PNFFk_2rIfXg0X3uhgkHnL5jBujQNh5V1qru0NJBbGtggZqVSirddrygw-IShMiF",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Great Value Classic Roast Ground Coffee",
+      "rating": 4,
+      "reviews": 278,
+      "price": "$5.44",
+      "extracted_price": 5.44,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4MTYyMTg0NjgyNjY5MDYyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY2MTE3ODkyMzQ0OTI0ODU5NDEiLCJpbWFnZURvY2lkIjoiMTU4MzM5OTY4NDU3NTAwNTA1MyIsInJkcyI6IlBDXzEyMzM5NjUyMTU4MjMyNjU3NTI1fFBST0RfUENfMTIzMzk2NTIxNTgyMzI2NTc1MjUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIzMzk2NTIxNTgyMzI2NTc1MjUiLCJtaWQiOiI1NzY0NjI1Mzc4Njk0MTA5MjUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4MTYyMTg0NjgyNjY5MDYyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY2MTE3ODkyMzQ0OTI0ODU5NDEiLCJpbWFnZURvY2lkIjoiMTU4MzM5OTY4NDU3NTAwNTA1MyIsInJkcyI6IlBDXzEyMzM5NjUyMTU4MjMyNjU3NTI1fFBST0RfUENfMTIzMzk2NTIxNTgyMzI2NTc1MjUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIzMzk2NTIxNTgyMzI2NTc1MjUiLCJtaWQiOiI1NzY0NjI1Mzc4Njk0MTA5MjUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS39O-1B_dNcxTOQ8gK6KbouSdIm60R0FC1U2Mq9euLxfJoejL7H2gdQwuINSAE45XOwk8ZOWNCxpr1BOmKI8YG8fa2KyqlBSL7a2z7a4CnDjAffYue3QoM",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSr30EzBoxaXOgULwmzSRg2Ghmt2nLUWxW7wxBRnQFz9MCqXfeEmPsau3i2L2P5txeBQFvmxWBlaBJxPZoE0i4g2lMUCad3TsJ9TVnihhsXnio",
+      "source": "Black Rifle Coffee Company",
+      "title": "Black Rifle Coffee Company Murdered Out Whole Bean Coffee",
+      "rating": 4.9,
+      "reviews": 820,
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "original_price": "Usually $18",
+      "extracted_original_price": 18,
+      "delivery": "Free delivery on $75+",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc1ODg1MzIzOTcwODE3MjA3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDA3NTIzNDAwOTg3Nzk5ODE5IiwiaW1hZ2VEb2NpZCI6IjI4MjA3OTMzMzUzNTgzMjkzNTQiLCJyZHMiOiJQQ18xNTQ3NzA1NTU4Nzk2OTQ3MTc4NXxQUk9EX1BDXzE1NDc3MDU1NTg3OTY5NDcxNzg1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NDc3MDU1NTg3OTY5NDcxNzg1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODc1ODg1MzIzOTcwODE3MjA3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNDA3NTIzNDAwOTg3Nzk5ODE5IiwiaW1hZ2VEb2NpZCI6IjI4MjA3OTMzMzUzNTgzMjkzNTQiLCJyZHMiOiJQQ18xNTQ3NzA1NTU4Nzk2OTQ3MTc4NXxQUk9EX1BDXzE1NDc3MDU1NTg3OTY5NDcxNzg1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NDc3MDU1NTg3OTY5NDcxNzg1IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVZ6c9Duo0VK7GIUw9pA6qWIL4Qcjo2auGKUsSfJziQJwjTYbU_0BJ2odFudQwrKPFd9VyEbhFQIN3Rm8WDcralKzJlkp3vJA09acMCqFkbBwLjS7JMBmbgA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT3xpS8aLa1ivOxeHyWvRGBXbhgo_A5FgGRlBTVarzT7wjaQU_uH6wFDHNaQ3bsWbOini649L-mTNBU-SjN276G42MOU6acT2n-4qriYIeq5Q",
+      "source": "Death Wish Coffee Company",
+      "title": "Death Wish Ground Coffee Beans",
+      "rating": 4.8,
+      "reviews": 5900,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDUxMzM3NzU5ODM5MDk5NDE3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIwNTEwOTI4MzY5OTgxMDk1MDYiLCJpbWFnZURvY2lkIjoiMTAwNjMwMTEzMTQyODUwNzk3MDMiLCJyZHMiOiJQQ18xNjEwMTU1MDI1MTkxNDk2NTE5M3xQUk9EX1BDXzE2MTAxNTUwMjUxOTE0OTY1MTkzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE2MTAxNTUwMjUxOTE0OTY1MTkzIiwibWlkIjoiNTc2NDYyNDkxNzYxOTYyMDUyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDUxMzM3NzU5ODM5MDk5NDE3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIwNTEwOTI4MzY5OTgxMDk1MDYiLCJpbWFnZURvY2lkIjoiMTAwNjMwMTEzMTQyODUwNzk3MDMiLCJyZHMiOiJQQ18xNjEwMTU1MDI1MTkxNDk2NTE5M3xQUk9EX1BDXzE2MTAxNTUwMjUxOTE0OTY1MTkzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE2MTAxNTUwMjUxOTE0OTY1MTkzIiwibWlkIjoiNTc2NDYyNDkxNzYxOTYyMDUyIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHr4NtazJufML936p_kaxzbIh35T4RFId4omBBDvtIgYrMUonGuV8D_tZOT2Lp1b-9trBIEBDAmKnh7TwM4JFU25bFZma__A6i59XlxrBWhoezRZjbtes4",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Café Bustelo Bustelo Coffee Espresso",
+      "rating": 4.7,
+      "reviews": 8300,
+      "price": "$5.43",
+      "extracted_price": 5.43,
+      "original_price": "$7.94",
+      "extracted_original_price": 7.94,
+      "location": "Nearby, 12 mi",
+      "extensions": [
+        "31% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzcxMjEyMTQyODA1NzU5MjU2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM0NjgyMTgxMjUzODc4MDg4MjMiLCJpbWFnZURvY2lkIjoiMTUwNDQ3NDIyODk0NjcxOTk5NCIsInJkcyI6IlBDXzM4NzQxMjAxOTQzNjI0NTQ5NXxQUk9EX1BDXzM4NzQxMjAxOTQzNjI0NTQ5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzODc0MTIwMTk0MzYyNDU0OTUiLCJtaWQiOiI1NzY0NjI3NjQyNDk0NzU4MDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzcxMjEyMTQyODA1NzU5MjU2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM0NjgyMTgxMjUzODc4MDg4MjMiLCJpbWFnZURvY2lkIjoiMTUwNDQ3NDIyODk0NjcxOTk5NCIsInJkcyI6IlBDXzM4NzQxMjAxOTQzNjI0NTQ5NXxQUk9EX1BDXzM4NzQxMjAxOTQzNjI0NTQ5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzODc0MTIwMTk0MzYyNDU0OTUiLCJtaWQiOiI1NzY0NjI3NjQyNDk0NzU4MDAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRk5r6rkDrUhHau1BIfQgKS2L_JecGVi4BWdVjrhKcEO-LhlA1YBEZ5rCFMmFlYsX6s8mA92NssWNRUuVllDuaw5RLu5o9zY17CTT9AtF32o1E0RVe0BpH8z6SV",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT-fNyrk4amIHsJWYGUAHJzwJMnOA2n7jpEEaddoVcbTO2AWnWRMJMz_Y8_wICkNygqU1SRI6d_NTebag8CP2oLU2f26h7ZiFO1rtyYtFe4awc",
+      "source": "Blue Bottle Coffee",
+      "title": "Blue Bottle Craft Instant Espresso",
+      "rating": 4.7,
+      "reviews": 488,
+      "price": "$28.00",
+      "extracted_price": 28,
+      "delivery": "Free delivery on $40+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYwMTAzNjYzMjQzNjE3NDAyNDgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NzI4MTUwNzI1MTQ2NTM0MTU2IiwiaW1hZ2VEb2NpZCI6IjY2NjU1OTAzOTc1OTU5MzQ1MDUiLCJyZHMiOiJQQ18yMTAxNTIwNzEwODQzOTIzNjkyfFBST0RfUENfMjEwMTUyMDcxMDg0MzkyMzY5MiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyMTAxNTIwNzEwODQzOTIzNjkyIiwibWlkIjoiNTc2NDYyNzg0MzM0MzcyOTQ3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYwMTAzNjYzMjQzNjE3NDAyNDgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NzI4MTUwNzI1MTQ2NTM0MTU2IiwiaW1hZ2VEb2NpZCI6IjY2NjU1OTAzOTc1OTU5MzQ1MDUiLCJyZHMiOiJQQ18yMTAxNTIwNzEwODQzOTIzNjkyfFBST0RfUENfMjEwMTUyMDcxMDg0MzkyMzY5MiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyMTAxNTIwNzEwODQzOTIzNjkyIiwibWlkIjoiNTc2NDYyNzg0MzM0MzcyOTQ3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJYVFYVnpkR2x1TEZSbGVHRnpMRlZ1YVhSbFpDQlRkR0YwWlhNIiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgx4UDdZAuUIYUux8osoIhWP3DTEkfYxfQVYA3PXEBOaLKzy7TM3nStDr0w3AP_hcJeBChhBQpBL7KavBDXkJvJXN8V5Jp9-Qoicmr1TMNlatCbhM783cS",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Folgers Ground Coffee 100% Colombian",
+      "rating": 4.2,
+      "reviews": 3000,
+      "price": "$10.16",
+      "extracted_price": 10.16,
+      "original_price": "$16",
+      "extracted_original_price": 16,
+      "location": "Nearby, 12 mi",
+      "delivery": "Next-day delivery $7",
+      "extensions": [
+        "36% OFF"
+      ],
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTk2MDUxNjA1NTA4NzY0MjY0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjAxMzYxOTc1ODc2NjU1MDU3IiwiaW1hZ2VEb2NpZCI6IjExMjMzNTE2MzE4MTQ2NTI3OTIxIiwicmRzIjoiUENfMTA1ODU1NjY2MzkyNTMwMDcyMjR8UFJPRF9QQ18xMDU4NTU2NjYzOTI1MzAwNzIyNCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDU4NTU2NjYzOTI1MzAwNzIyNCIsIm1pZCI6IjU3NjQ2Mjg2MDg3MzY4MzE1NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTk2MDUxNjA1NTA4NzY0MjY0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjAxMzYxOTc1ODc2NjU1MDU3IiwiaW1hZ2VEb2NpZCI6IjExMjMzNTE2MzE4MTQ2NTI3OTIxIiwicmRzIjoiUENfMTA1ODU1NjY2MzkyNTMwMDcyMjR8UFJPRF9QQ18xMDU4NTU2NjYzOTI1MzAwNzIyNCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMDU4NTU2NjYzOTI1MzAwNzIyNCIsIm1pZCI6IjU3NjQ2Mjg2MDg3MzY4MzE1NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSWFRWFZ6ZEdsdUxGUmxlR0Z6TEZWdWFYUmxaQ0JUZEdGMFpYTSIsImdsIjoidXMiLCJobCI6ImVuIn0%3D"
+    },
+    {
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZcQGUr5npmRQUA7FdiWXtO-yBMLVTNOxRu30ulWTLdjz28hyvj1N9s6f6cHOan7YH-r3AvRP-JntU8idsw_eLLms46tKGocTnVIHO59wdP1mdY7-LBbs_",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Community Coffee Dark Roast Whole Bean Coffee",
+      "rating": 4.7,
+      "reviews": 254,
+      "price": "$9.59",
+      "extracted_price": 9.59,
+      "location": "Also nearby",
+      "delivery": "Free delivery on $100+",
+      "immersive_product_page_token": "eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA4NTU0OTk1MDQ5MjE2NTE4IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUwMjUxNzk0MDY0OTEzNzY5ODciLCJpbWFnZURvY2lkIjoiMjkyMjI2MTY2MzA5MTA2NDUxNyIsInJkcyI6IlBDXzEyMzQzODIwNDA5OTcyNTU1MTgzfFBST0RfUENfMTIzNDM4MjA0MDk5NzI1NTUxODMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIzNDM4MjA0MDk5NzI1NTUxODMiLCJtaWQiOiI1NzY0NjI1NDkxNzU0NjExMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjBZX2ZhZGZrUEtla2lMTVAxZmJELVE0IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA4NTU0OTk1MDQ5MjE2NTE4IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTUwMjUxNzk0MDY0OTEzNzY5ODciLCJpbWFnZURvY2lkIjoiMjkyMjI2MTY2MzA5MTA2NDUxNyIsInJkcyI6IlBDXzEyMzQzODIwNDA5OTcyNTU1MTgzfFBST0RfUENfMTIzNDM4MjA0MDk5NzI1NTUxODMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIzNDM4MjA0MDk5NzI1NTUxODMiLCJtaWQiOiI1NzY0NjI1NDkxNzU0NjExMDUiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lhUVhWemRHbHVMRlJsZUdGekxGVnVhWFJsWkNCVGRHRjBaWE0iLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Can a person with AFIB drink coffee?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVRZME1GWjFhRUZuT1ROdlUxSmlRMnhuVTNkSFdWVkxVM1JQWkhvd1VDMUNPRGRNTjJjelYwaDNWbWxyYzBWMFFUZFFXWGgxZEZNelIzcDBWamhYVkVabFlWRmtVSFpOYTJGNmEyOHhRbmsxYXpGMVFVVndjVzh4VUhVNFFsTm9URzV2TWtacFIxWkhiekEwZVRnMFlVczRVbkpEY2toUlEyVmtSR1Z3TmxoMWEyOUdUREkwTFZRNFFWY3pkRk5vUXpkWGVWOXJSRzVpTlVwQkVoY3dXVjltWVdSbWExQkxaV3RwVEUxUU1XWmlSQzFSTkJvaVFVcExURVp0UzFBMlEwcHlSWGh6WVdkVmNEQllNVWhGVkZNdFFWWkRUbEptVVEiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIEFGSUIgZHJpbmsgY29mZmVlPyIsImxrIjoiR2lOallXNGdZU0J3WlhKemIyNGdkMmwwYUNCaFptbGlJR1J5YVc1cklHTnZabVpsWlEiLCJicyI6ImMzV05QUXZDTUJpRWNYMG5GeFdpd21sMXRuWnlFZkVEb1lPemMwemYwS0Fra2tiNjl3MG9ZcW1PeHozM0hKMW90cGNXRW5mMmxiT29UU2l4UGVZN0ZON1lLNVRUbW5tVHpVV2lXcHpVNXRMZ2FFbjl2SUlKcnd6blA0S0I2SmxmRGExcGRIQmN2V04wYWxhUjhpeURzWEU0RnNQaWYwODVUYy1sRElqeVVESlc2U0pMNFI4M2h2NTZUOFNrYmxCb1U5M09FdyIsImlkIjoiZmNfMFlfZmFkZmtQS2VraUxNUDFmYkQtUTRfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFdUlCQ3FJQlFVMXVNeTE1VVRZME1GWjFhRUZuT1ROdlUxSmlRMnhuVTNkSFdWVkxVM1JQWkhvd1VDMUNPRGRNTjJjelYwaDNWbWxyYzBWMFFUZFFXWGgxZEZNelIzcDBWamhYVkVabFlWRmtVSFpOYTJGNmEyOHhRbmsxYXpGMVFVVndjVzh4VUhVNFFsTm9URzV2TWtacFIxWkhiekEwZVRnMFlVczRVbkpEY2toUlEyVmtSR1Z3TmxoMWEyOUdUREkwTFZRNFFWY3pkRk5vUXpkWGVWOXJSRzVpTlVwQkVoY3dXVjltWVdSbWExQkxaV3RwVEUxUU1XWmlSQzFSTkJvaVFVcExURVp0UzFBMlEwcHlSWGh6WVdkVmNEQllNVWhGVkZNdFFWWkRUbEptVVEiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IkNhbiBhIHBlcnNvbiB3aXRoIEFGSUIgZHJpbmsgY29mZmVlPyIsImxrIjoiR2lOallXNGdZU0J3WlhKemIyNGdkMmwwYUNCaFptbGlJR1J5YVc1cklHTnZabVpsWlEiLCJicyI6ImMzV05QUXZDTUJpRWNYMG5GeFdpd21sMXRuWnlFZkVEb1lPemMwemYwS0Fra2tiNjl3MG9ZcW1PeHozM0hKMW90cGNXRW5mMmxiT29UU2l4UGVZN0ZON1lLNVRUbW5tVHpVV2lXcHpVNXRMZ2FFbjl2SUlKcnd6blA0S0I2SmxmRGExcGRIQmN2V04wYWxhUjhpeURzWEU0RnNQaWYwODVUYy1sRElqeVVESlc2U0pMNFI4M2h2NTZUOFNrYmxCb1U5M09FdyIsImlkIjoiZmNfMFlfZmFkZmtQS2VraUxNUDFmYkQtUTRfMSJ9"
+    },
+    {
+      "question": "Is it coffe or coffee?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVVsMWNXRmtlR3M1ZHpoS00zWTVNbFJHWTFwaVdtdGFOVFJXVDJzdFRIQnRZVXB2WDBweFpsVkNNalEwTVdaVlptTkZOazl4VDJkdVluWmpSSEp5Y0c5YWN6QnVSM1JHTFdSVk1rdEdkeTAzV0doaVdERk9UazFzWWpsa1NVeE5iV3BXWnpCdU5XbHZSRlpYVUZrelkwTjJMV0pNYm1wWGIwZFJVM0ptYUdSQlJWTkNOMmNTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMUxlbGxhT0hsc1ptMHpPSEphUldWMVZWTjVVRlV6TURJdE5YQlIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IklzIGl0IGNvZmZlIG9yIGNvZmZlZT8iLCJsayI6ImM1TVN6U3hXeUN4UlNNNVBTMHRWeUMtQ01GSUIiLCJicyI6ImMzV05QUXZDTUJpRWNYMG5GeFdpd21sMXRuWnlFZkVEb1lPemMwemYwS0Fra2tiNjl3MG9ZcW1PeHozM0hKMW90cGNXRW5mMmxiT29UU2l4UGVZN0ZON1lLNVRUbW5tVHpVV2lXcHpVNXRMZ2FFbjl2SUlKcnd6blA0S0I2SmxmRGExcGRIQmN2V04wYWxhUjhpeURzWEU0RnNQaWYwODVUYy1sRElqeVVESlc2U0pMNFI4M2h2NTZUOFNrYmxCb1U5M09FdyIsImlkIjoiZmNfMFlfZmFkZmtQS2VraUxNUDFmYkQtUTRfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVVsMWNXRmtlR3M1ZHpoS00zWTVNbFJHWTFwaVdtdGFOVFJXVDJzdFRIQnRZVXB2WDBweFpsVkNNalEwTVdaVlptTkZOazl4VDJkdVluWmpSSEp5Y0c5YWN6QnVSM1JHTFdSVk1rdEdkeTAzV0doaVdERk9UazFzWWpsa1NVeE5iV3BXWnpCdU5XbHZSRlpYVUZrelkwTjJMV0pNYm1wWGIwZFJVM0ptYUdSQlJWTkNOMmNTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMUxlbGxhT0hsc1ptMHpPSEphUldWMVZWTjVVRlV6TURJdE5YQlIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IklzIGl0IGNvZmZlIG9yIGNvZmZlZT8iLCJsayI6ImM1TVN6U3hXeUN4UlNNNVBTMHRWeUMtQ01GSUIiLCJicyI6ImMzV05QUXZDTUJpRWNYMG5GeFdpd21sMXRuWnlFZkVEb1lPemMwemYwS0Fra2tiNjl3MG9ZcW1PeHozM0hKMW90cGNXRW5mMmxiT29UU2l4UGVZN0ZON1lLNVRUbW5tVHpVV2lXcHpVNXRMZ2FFbjl2SUlKcnd6blA0S0I2SmxmRGExcGRIQmN2V04wYWxhUjhpeURzWEU0RnNQaWYwODVUYy1sRElqeVVESlc2U0pMNFI4M2h2NTZUOFNrYmxCb1U5M09FdyIsImlkIjoiZmNfMFlfZmFkZmtQS2VraUxNUDFmYkQtUTRfMiJ9"
+    },
+    {
+      "question": "Does coffee affect creatine?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWtnNFRGSXdkREZzY21GWVgyTllObFZLVmxNeGNVaERkVXQzWVZORWVEaGhZV2ROTTFOeWJrUmpia0p3YkVveFNHeEJkV0p1V1UxWmRqbHpWbkpGYjBwMU5GQlJNM2hPYjFwNFNFbGlOVmRSVlZKV1ZVeHZjMUUyUjNWS1owTlNNekUwWjNndFVUTkdXVWRFYUZCa1EwMUdOVzlEVEhkdmJsSnBjV0YwYTA4d1RtcGtjVEFTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMU1ObWRmY1hoalpYZHdaVWx4VEhwVlVVSXRPVFF6WkRSamNXcEIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IkRvZXMgY29mZmVlIGFmZmVjdCBjcmVhdGluZT8iLCJsayI6IkdodGtiMlZ6SUdOdlptWmxaU0JoWm1abFkzUWdZM0psWVhScGJtVSIsImJzIjoiYzNXTlBRdkNNQmlFY1gwbkZ4V2l3bWwxdG5aeUVmRURvWU96YzB6ZjBLQWtra2I2OXcwb1lxbU94ejMzSEoxb3RwY1dFbmYybGJPb1RTaXhQZVk3Rk43WUs1VFRtbm1UelVXaVdwelU1dExnYUVuOXZJSUpyd3puUDRLQjZKbGZEYTFwZEhCY3ZXTjBhbGFSOGl5RHNYRTRGc1BpZjA4NVRjLWxESWp5VURKVzZTSkw0UjgzaHY1NlQ4U2tibEJvVTkzT0V3IiwiaWQiOiJmY18wWV9mYWRma1BLZWtpTE1QMWZiRC1RNF8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VWtnNFRGSXdkREZzY21GWVgyTllObFZLVmxNeGNVaERkVXQzWVZORWVEaGhZV2ROTTFOeWJrUmpia0p3YkVveFNHeEJkV0p1V1UxWmRqbHpWbkpGYjBwMU5GQlJNM2hPYjFwNFNFbGlOVmRSVlZKV1ZVeHZjMUUyUjNWS1owTlNNekUwWjNndFVUTkdXVWRFYUZCa1EwMUdOVzlEVEhkdmJsSnBjV0YwYTA4d1RtcGtjVEFTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMU1ObWRmY1hoalpYZHdaVWx4VEhwVlVVSXRPVFF6WkRSamNXcEIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IkRvZXMgY29mZmVlIGFmZmVjdCBjcmVhdGluZT8iLCJsayI6IkdodGtiMlZ6SUdOdlptWmxaU0JoWm1abFkzUWdZM0psWVhScGJtVSIsImJzIjoiYzNXTlBRdkNNQmlFY1gwbkZ4V2l3bWwxdG5aeUVmRURvWU96YzB6ZjBLQWtra2I2OXcwb1lxbU94ejMzSEoxb3RwY1dFbmYybGJPb1RTaXhQZVk3Rk43WUs1VFRtbm1UelVXaVdwelU1dExnYUVuOXZJSUpyd3puUDRLQjZKbGZEYTFwZEhCY3ZXTjBhbGFSOGl5RHNYRTRGc1BpZjA4NVRjLWxESWp5VURKVzZTSkw0UjgzaHY1NlQ4U2tibEJvVTkzT0V3IiwiaWQiOiJmY18wWV9mYWRma1BLZWtpTE1QMWZiRC1RNF8zIn0%3D"
+    },
+    {
+      "question": "What is the 80/20 rule for coffee?",
+      "type": "featured_snippet",
+      "next_page_token": "eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVZCUFpFTldUemxtWmxGbExWUk1jMmRKZFRJMFpFTkJVWEJSVFd0dGNVVldUbk5CVkcxM2NISjJVblpoT0Rjek1YQjJRMU15Y0MxUGNYRnFOemg1T1dKRVEyWktTME5YYm5kVU1sVndlWE5zTTNoT1ZIRnJRWGxFT1d0ME4xRXlhM2RuZGtwQ1RYZ3hhME5QTWs5SVMzSmtaMWx1VVhWdmRIRXRORU0zUlMxaVRGcGxaM2tTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMU1WRkZ4WXpsRk1VUkNPVUkzUVZKV2FtdzVjVEp3WWxkRlIydFIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgZm9yIGNvZmZlZT8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdadmNpQmpiMlptWldVIiwiYnMiOiJjM1dOUFF2Q01CaUVjWDBuRnhXaXdtbDF0blp5RWZFRG9ZT3pjMHpmMEtBa2trYjY5dzBvWXFtT3h6MzNISjFvdHBjV0VuZjJsYk9vVFNpeFBlWTdGTjdZSzVUVG1ubVR6VVdpV3B6VTV0TGdhRW45dklJSnJ3em5QNEtCNkpsZkRhMXBkSEJjdldOMGFsYVI4aXlEc1hFNEZzUGlmMDg1VGMtbERJanlVREpXNlNKTDRSODNodjU2VDhTa2JsQm9VOTNPRXciLCJpZCI6ImZjXzBZX2ZhZGZrUEtla2lMTVAxZmJELVE0XzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiI2NzYxIiwiZmMiOiJFc3dCQ293QlFVMXVNeTE1VVZCUFpFTldUemxtWmxGbExWUk1jMmRKZFRJMFpFTkJVWEJSVFd0dGNVVldUbk5CVkcxM2NISjJVblpoT0Rjek1YQjJRMU15Y0MxUGNYRnFOemg1T1dKRVEyWktTME5YYm5kVU1sVndlWE5zTTNoT1ZIRnJRWGxFT1d0ME4xRXlhM2RuZGtwQ1RYZ3hhME5QTWs5SVMzSmtaMWx1VVhWdmRIRXRORU0zUlMxaVRGcGxaM2tTRnpCWlgyWmhaR1pyVUV0bGEybE1UVkF4Wm1KRUxWRTBHaUpCU2t0TVJtMU1WRkZ4WXpsRk1VUkNPVUkzUVZKV2FtdzVjVEp3WWxkRlIydFIiLCJmY3YiOiIzIiwiZWkiOiIwWV9mYWRma1BLZWtpTE1QMWZiRC1RNCIsInFjIjoiQ2daamIyWm1aV1VRQUgyeU1qRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgZm9yIGNvZmZlZT8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdadmNpQmpiMlptWldVIiwiYnMiOiJjM1dOUFF2Q01CaUVjWDBuRnhXaXdtbDF0blp5RWZFRG9ZT3pjMHpmMEtBa2trYjY5dzBvWXFtT3h6MzNISjFvdHBjV0VuZjJsYk9vVFNpeFBlWTdGTjdZSzVUVG1ubVR6VVdpV3B6VTV0TGdhRW45dklJSnJ3em5QNEtCNkpsZkRhMXBkSEJjdldOMGFsYVI4aXlEc1hFNEZzUGlmMDg1VGMtbERJanlVREpXNlNKTDRSODNodjU2VDhTa2JsQm9VOTNPRXciLCJpZCI6ImZjXzBZX2ZhZGZrUEtla2lMTVAxZmJELVE0XzQifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Coffee&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECB0QAQ",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGGnkAm3BLx_M6QGwMXQiXD0.jpeg",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGG0u6LQvNUsA7ruOpsUQ0gU.png",
+      "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans",
+      "snippet_highlighted_words": [
+        "a beverage brewed from roasted, ground coffee beans"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans",
+          "source_info_link": "https://en.wikipedia.org/wiki/Coffee",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGDX8mjM-DUNJeC365wWCsTePd38c1qxzJqWzDshM5W_1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Coffee&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCoffee",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Cuvée Coffee: Always Something Brewing. Austin, TX",
+      "link": "https://cuveecoffee.com/?srsltid=AfmBOopx-KYgqt7OA7gwmThk643coU4hRaeAU9znvlGEsixaaBVbGFYB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cuveecoffee.com/%3Fsrsltid%3DAfmBOopx-KYgqt7OA7gwmThk643coU4hRaeAU9znvlGEsixaaBVbGFYB&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECDgQAQ",
+      "displayed_link": "https://cuveecoffee.com",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGLHMA1IQKWxNnrgnKmEiM9g.png",
+      "snippet": "Better coffee, made easy. At Cuvée Coffee we push boundaries, stay up late, work hard and never stop experimenting to bring you the best coffee possible.",
+      "snippet_highlighted_words": [
+        "Better coffee, made easy"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Better coffee, made easy. At Cuvée Coffee we push boundaries, stay up late, work hard and never stop experimenting to bring you the best coffee possible.",
+          "source_info_link": "https://cuveecoffee.com/?srsltid=AfmBOopx-KYgqt7OA7gwmThk643coU4hRaeAU9znvlGEsixaaBVbGFYB",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGASUo6MsdfEr3nKJmKy1Z1Y1sOD00TpNFEJfUyAhR5zZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://cuveecoffee.com/?srsltid=AfmBOopx-KYgqt7OA7gwmThk643coU4hRaeAU9znvlGEsixaaBVbGFYB&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcuveecoffee.com%2F%3Fsrsltid%3DAfmBOopx-KYgqt7OA7gwmThk643coU4hRaeAU9znvlGEsixaaBVbGFYB",
+      "source": "Cuvée Coffee"
+    },
+    {
+      "position": 3,
+      "title": "Jo's Coffee - Austin",
+      "link": "https://www.joscoffee.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.joscoffee.com/&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECDsQAQ",
+      "displayed_link": "https://www.joscoffee.com",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGOZLuBXcFRHfjm1pRDLBeYQ.png",
+      "snippet": "Jo's Coffee is an iconic Austin coffee shop known for its coffee, pastries, sandwiches, and breakfast tacos with multiple locations throughout Texas.",
+      "snippet_highlighted_words": [
+        "an iconic Austin coffee shop"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jo's Coffee is an iconic Austin coffee shop known for its coffee, pastries, sandwiches, and breakfast tacos with multiple locations throughout Texas.",
+          "source_info_link": "https://www.joscoffee.com/",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGHl7Wp7P4zHpQ5N_1LAKaA54wFaNls40DZ_zH320zmAJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.joscoffee.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.joscoffee.com%2F",
+      "source": "Jo's Coffee"
+    },
+    {
+      "position": 4,
+      "title": "Stumptown Coffee Roasters: Craft Coffee Beans Online & In ...",
+      "link": "https://www.stumptowncoffee.com/?srsltid=AfmBOoq6IxcLXdDsB69JqwYnTJ7ouwjTEqZEnATV0yq7HkE2Mrv0GWvv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stumptowncoffee.com/%3Fsrsltid%3DAfmBOoq6IxcLXdDsB69JqwYnTJ7ouwjTEqZEnATV0yq7HkE2Mrv0GWvv&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECFQQAQ",
+      "displayed_link": "https://www.stumptowncoffee.com",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGPSHSjMM481xwlumSHHZOw4.png",
+      "snippet": "Stumptown Coffee Roasters brings you fresh beans, cold brew, and good vibes. Order online, visit a shop, or subscribe for the long haul.",
+      "snippet_highlighted_words": [
+        "fresh beans, cold brew, and good vibes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stumptown Coffee Roasters brings you fresh beans, cold brew, and good vibes. Order online, visit a shop, or subscribe for the long haul.",
+          "source_info_link": "https://www.stumptowncoffee.com/?srsltid=AfmBOoq6IxcLXdDsB69JqwYnTJ7ouwjTEqZEnATV0yq7HkE2Mrv0GWvv",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGNNtCNzSO6WuaK6gtfENcb96Zv6xJnh0B_32yZ9yDIy7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.stumptowncoffee.com/?srsltid=AfmBOoq6IxcLXdDsB69JqwYnTJ7ouwjTEqZEnATV0yq7HkE2Mrv0GWvv&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.stumptowncoffee.com%2F%3Fsrsltid%3DAfmBOoq6IxcLXdDsB69JqwYnTJ7ouwjTEqZEnATV0yq7HkE2Mrv0GWvv",
+      "source": "Stumptown Coffee"
+    },
+    {
+      "position": 5,
+      "title": "Just sharing my favorite Coffee shops in Austin, who offer a ...",
+      "link": "https://www.reddit.com/r/austinfood/comments/1sloil0/just_sharing_my_favorite_coffee_shops_in_austin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/austinfood/comments/1sloil0/just_sharing_my_favorite_coffee_shops_in_austin/&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECFUQAQ",
+      "displayed_link": "30+ comments · 14 hours ago",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGI7bmtgZSnoJi-J-ZXM3n6g.png",
+      "snippet": "I stopped by Neighbor Coffee & Friends (on Burnet) one day, and tried their Iced Chai (which is homemade, the guy told me), and it was amazing.",
+      "snippet_highlighted_words": [
+        "Neighbor Coffee & Friends (on Burnet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I stopped by Neighbor Coffee & Friends (on Burnet) one day, and tried their Iced Chai (which is homemade, the guy told me), and it was amazing.",
+          "source_info_link": "https://www.reddit.com/r/austinfood/comments/1sloil0/just_sharing_my_favorite_coffee_shops_in_austin/",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGB0bYd_aY-m00E-woa1F9gwPKsM9g00itKE0Yb6s5x5n.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/austinfood/comments/1sloil0/just_sharing_my_favorite_coffee_shops_in_austin/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Faustinfood%2Fcomments%2F1sloil0%2Fjust_sharing_my_favorite_coffee_shops_in_austin%2F",
+      "source": "Reddit · r/austinfood"
+    },
+    {
+      "position": 6,
+      "title": "Coffee Shops Austin, TX - Last Updated April 2026",
+      "link": "https://www.yelp.com/search?find_desc=Coffee+Shops&find_loc=Austin%2C+TX",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DCoffee%2BShops%26find_loc%3DAustin%252C%2BTX&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECDoQAQ",
+      "displayed_link": "https://www.yelp.com › Food",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGDndjtq2KZHBU8Qn6R3KStA.png",
+      "snippet": "Coffee Shops Austin, TX · 1. Mazúr Coffee · 2. Flora Coffee · 3. Terrible Love · 4. Palomino Coffee · 5. Daydreamer Coffee · 6. Mozart's Coffee Roasters · 7.",
+      "snippet_highlighted_words": [
+        "1. Mazúr Coffee"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "reviews": 18409
+          },
+          "extensions": [
+            "4.4(18,409)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Coffee Shops Austin, TX · 1. Mazúr Coffee · 2. Flora Coffee · 3. Terrible Love · 4. Palomino Coffee · 5. Daydreamer Coffee · 6. Mozart's Coffee Roasters · 7.",
+          "source_info_link": "https://www.yelp.com/search?find_desc=Coffee+Shops&find_loc=Austin%2C+TX",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGCxb9iMiu7SvYM9QnmC-zWk-Rr-45amAdwNzlpzKKNll.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.yelp.com/search?find_desc=Coffee+Shops&find_loc=Austin%2C+TX&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.yelp.com%2Fsearch%3Ffind_desc%3DCoffee%2BShops%26find_loc%3DAustin%252C%2BTX",
+      "source": "Yelp"
+    },
+    {
+      "position": 7,
+      "title": "Coffee - The Nutrition Source - Harvard University",
+      "link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nutritionsource.hsph.harvard.edu/food-features/coffee/&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECD0QAQ",
+      "displayed_link": "https://nutritionsource.hsph.harvard.edu › food-features",
+      "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGExHe2y5BSZ7eaeEaSecOtU.png",
+      "snippet": "A plain “black” cup of coffee is a very low calorie drink—8 ounces only contains 2 calories! However, adding sugar, cream, and milk can quickly bump up the ...",
+      "snippet_highlighted_words": [
+        "is a very low calorie drink"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A plain “black” cup of coffee is a very low calorie drink—8 ounces only contains 2 calories! However, adding sugar, cream, and milk can quickly bump up the ...",
+          "source_info_link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+          "icon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/9mQBG6u6-RFLi2XvsxqvGP6XNqv5TkSpLbqa_s50MfSLBI10Ma9uAGi8GCNj07j1.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://nutritionsource.hsph.harvard.edu/food-features/coffee/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fnutritionsource.hsph.harvard.edu%2Ffood-features%2Fcoffee%2F",
+      "source": "The Nutrition Source"
+    },
+    {
+      "position": 8,
+      "title": "Barretts Coffee",
+      "link": "https://www.barrettscoffee.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.barrettscoffee.com/&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECEEQAQ",
+      "displayed_link": "https://www.barrettscoffee.com",
+      "snippet": "Roasting & Serving Fine Coffees · Order online Take-out, Curbside & Delivery · Cafe OPEN for walk-up service · Coffee shipped to your doorstep.",
+      "snippet_highlighted_words": [
+        "Order online Take-out, Curbside & Delivery"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Roasting & Serving Fine Coffees · Order online Take-out, Curbside & Delivery · Cafe OPEN for walk-up service · Coffee shipped to your doorstep.",
+          "source_info_link": "https://www.barrettscoffee.com/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.barrettscoffee.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.barrettscoffee.com%2F",
+      "source": "Barretts Coffee"
+    },
+    {
+      "position": 9,
+      "title": "National Coffee Association",
+      "link": "https://www.ncausa.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ncausa.org/&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QFnoECG0QAQ",
+      "displayed_link": "https://www.ncausa.org",
+      "snippet": "The National Coffee Association is the leading trade association for the U.S. coffee industry. Learn more about our networking, advocacy, market research, ...",
+      "snippet_highlighted_words": [
+        "is the leading trade association for the U.S. coffee industry"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The National Coffee Association is the leading trade association for the U.S. coffee industry. Learn more about our networking, advocacy, market research, ...",
+          "source_info_link": "https://www.ncausa.org/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ncausa.org/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ncausa.org%2F",
+      "source": "National Coffee Association"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Sam Reid",
+      "author_description": "Host of The Studio Revue",
+      "source": "YouTube",
+      "duration": "25:15",
+      "extensions": [
+        "199.2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/ZJeO6G0y578/hqdefault.jpg"
+      ],
+      "title": "I Tried Taco Bell’s New Coffee Shop",
+      "link": "https://www.youtube.com/watch?v=ZJeO6G0y578",
+      "date": "3 days ago"
+    },
+    {
+      "author": "r/pourover",
+      "source": "Reddit",
+      "extensions": [
+        "170+ comments "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oFRIxCh5ax3S3dWzfPUkWXm3D1iEc2neKSSuPkikwHmddTcG1X0PXsf6Zg&usqp=CAI&s"
+      ],
+      "title": "\"Cofermentation/infusion\" ruined my trust in coffee.",
+      "link": "https://www.reddit.com/r/pourover/comments/1slq61i/cofermentationinfusion_ruined_my_trust_in_coffee/",
+      "date": "13 hours ago"
+    },
+    {
+      "author": "morgandrinkscoffee",
+      "author_description": "US Barista Champion & creator",
+      "source": "Instagram",
+      "extensions": [
+        "840+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZo-j0gFmLr4NhBO70iVZa_zGJH-93ayHgrsy2JF5cKzMMJXMD0JENzsfxw&usqp=CAI&s"
+      ],
+      "title": "WORLD OF COFFEE SAN DIEGO // My feet hurt and I’m dehydrated but my word, that was a blast. Let’s do it again soon, yeah? (Swipe to the end for a “sitting on a Toddy bucket in the cleanup line” photo) Huge thank you to @philtered.coffee, @nikiweegens, and @kennethfreyer for many of these photos.",
+      "link": "https://www.instagram.com/p/DXIu6colCIi/",
+      "date": "10 hours ago"
+    },
+    {
+      "author": "NYT Wirecutter",
+      "author_description": "Product review website",
+      "source": "YouTube",
+      "duration": "11:35",
+      "extensions": [
+        "19.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/r82ZolIuUGo/hqdefault.jpg"
+      ],
+      "title": "Does Good Instant Coffee Exist? We Tasted 12 Brands, From Cheap to Premium | Wirecutter | Taste Test",
+      "link": "https://www.youtube.com/watch?v=r82ZolIuUGo",
+      "date": "5 days ago"
+    },
+    {
+      "author": "Iced Coffee Lovers",
+      "author_description": "Coffee lovers",
+      "source": "Facebook",
+      "extensions": [
+        "80+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqImFeeCH3Ixax5dHVRa7KM4-FFx3cYOjUFGu9WGxcpEJKQldEczLecmgbQ&usqp=CAI&s"
+      ],
+      "title": "Why is it that even though my coffee is really good it still doesn’t hit like going to buy one and drinking one that someone else made me?😭 Seriously, trying to quit buying so many iced coffees but the struggle is real!",
+      "link": "https://www.facebook.com/groups/237920857699504/posts/1525446455613598/",
+      "date": "16 hours ago"
+    },
+    {
+      "author": "whenwherewhataustin",
+      "source": "Instagram",
+      "extensions": [
+        "4.3K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixgsy3KEXtFQrh1EO2Q91qZ0Hu2LCKTx3sBhT6aP1ktWVc-oHMNgmQLLHVQ&usqp=CAI&s"
+      ],
+      "title": "☕️🍵 This is so deserved. Tag your favorite in Austin coffee shop the comments and put on for who helped this become true!",
+      "link": "https://www.instagram.com/p/DXImGkTEW9v/",
+      "date": "6 hours ago"
+    },
+    {
+      "author": "dieworkwear",
+      "author_description": "Menswear writer",
+      "source": "X",
+      "extensions": [
+        "150+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhJxh2M1lhLTQ0At3pvsl4BxuYjNNrapuYgcTD1x49UwOIcrWx8yBTknxMg&usqp=CAI&s"
+      ],
+      "title": "There is no \"best\" chino, just as there's no \"best\" coffee. When choosing coffee, it's helpful to identify which notes you like. Almond? Caramel? Spiced Cider? Light or dark roast? Natural or washed process? Developing this understanding will help you build a better wardrobe.",
+      "link": "https://x.com/dieworkwear/status/2044319446429512151?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+      "date": "6 hours ago"
+    },
+    {
+      "author": "Hoon's Coffee",
+      "author_description": "Coffee enthusiast",
+      "source": "YouTube",
+      "duration": "6:25",
+      "extensions": [
+        "500+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/UqoVy6SLjnQ/hqdefault.jpg"
+      ],
+      "title": "How He Built the World’s Most Viral Coffee Brand (Jake Miller) @FellowProducts",
+      "link": "https://www.youtube.com/watch?v=UqoVy6SLjnQ",
+      "date": "14 hours ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQn1Vm3626BNIC4VlHS31Ee1ErL0x4Nt3m3tA"
+    },
+    {
+      "author": "r/AskChicago",
+      "source": "Reddit",
+      "extensions": [
+        "80+ comments "
+      ],
+      "title": "What is your favorite place to get a coffee in Chicago?",
+      "snippet": "Popular comment · Nice try, narc! I’m not gonna rat out my spot. Snitches get stitches.",
+      "link": "https://www.reddit.com/r/AskChicago/comments/1sldme2/what_is_your_favorite_place_to_get_a_coffee_in/",
+      "date": "21 hours ago"
+    },
+    {
+      "author": "Ana Gutierrez",
+      "author_description": "Austin entertainment journalist",
+      "source": "Austin American-Statesman",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCAaGF7csBF0NmujqLu8-aDiIhdoZD83t8GIIQBuPUBX8ZL22Q_bu5a7u-kw&usqp=CAI&s"
+      ],
+      "title": "Where to get the best coffee in Austin",
+      "link": "https://www.statesman.com/project/best-coffee-shops-austin/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "alexmdc",
+      "author_description": "Internet personality",
+      "source": "Instagram",
+      "duration": "0:07",
+      "extensions": [
+        "81.3K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-2c2joyIQj_F-9IgjPzcSEJybVFYRZJ8_GRda2b9VSn0Q0gYjwo91e_pZjXU&usqp=CAI&s=10"
+      ],
+      "title": "The hand-off ☕️🍻 #weekday #coffee #beer #wine #reel",
+      "link": "https://www.instagram.com/reel/DXFn00GDuVR/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Foodies Who Review South Florida",
+      "source": "Facebook",
+      "extensions": [
+        "1 reaction "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLHP44mN-c2MyvBZByso5XKd63XjZoNLh4Tjok5XvDAzQxwoPTPXDwhtBKQ&usqp=CAI&s"
+      ],
+      "title": "Hi all! I’m a big coffee shop person, and my social media pages mostly consist of my pics from my coffee shop visits, both locally and when I travel. Something I have wanted to do for a long time, I finally started up an Instagram page dedicated to all of my coffee",
+      "link": "https://www.facebook.com/groups/foodiessofl/posts/2830634790603104/",
+      "date": "11 hours ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Coffee nearby",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+nearby&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjrARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+nearby"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee brands",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+brands&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjzARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+brands"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee types",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+types&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjyARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+types"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee beans",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+beans&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjxARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+beans"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee Walmart",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+Walmart&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjvARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+Walmart"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee benefits",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+benefits&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjoARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee powder",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+powder&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjlARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+powder"
+    },
+    {
+      "block_position": 1,
+      "query": "Coffee name",
+      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Coffee+name&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q1QJ6BQjmARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee+name"
+    }
+  ],
+  "things_to_know": {
+    "buttons": [
+      {
+        "text": "Types",
+        "title": "Types of Coffee Drinks",
+        "link": "https://www.folgerscoffee.com/coffee/articles/types-of-coffee",
+        "displayed_link": "https://www.folgerscoffee.com › coffee › articles › types...",
+        "snippet": "Types of Coffee Drinks",
+        "snippet_highlighted_words": [
+          "Types of Coffee Drinks"
+        ],
+        "list": [
+          "Espresso.",
+          "Espresso & Coffee.",
+          "Cold Brew.",
+          "Cappuccino.",
+          "Mocha.",
+          "Iced Coffees.",
+          "Lattes.",
+          "Breve."
+        ],
+        "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/FjZCYKgIkioFEdbUhmFRd7iSh35lBdhWVxZu57RHhbLdcZKHmKX9H6Vl49Pj5-Ed.png",
+        "source": "folgerscoffee.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ23X9h90ydMvyWk5U5_mTZex8AdgQYtOppf-TzEg4_c&s",
+        "search_link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=types+of+coffee&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBAT",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=types+of+coffee"
+      },
+      {
+        "text": "Preparation Methods",
+        "title": "AI Overview",
+        "date": "La Colombe Coffee",
+        "list": [
+          "Coffee Brewing Methods: French Press vs Pour Over vs AeroPress ...Apr 20, 2021 — what's the best way to brew coffee at home or what coffee maker should I buy these two questions we get asked a lot an...YouTube · European Coffee Trip",
+          "How to make delicious coffee at home (7 different ways!)Nov 28, 2025 — hello there we are going to embark on a coffee brewing speed tour wherein we explore. seven different ways to make cof...YouTube · Morgan Eckroth",
+          "Coffee Basics: Brewing MethodsCounter Culture Coffee",
+          "6 Popular Methods for Brewing Coffee at HomePercolate: Stovetop Moka Pot. Originally patented in 1933 by Alfonso Bialetti, stovetop style coffee makers use steam pressure fro...Trees Organic Coffee",
+          "Home Coffee Brewing 101: Methods, Equipment, and Tips for the Perfect ...Mar 14, 2025 — there are enumerous coffee gadgets on the market some cost as little as $10 some cost as much as a car and it can be r...YouTube · methodicalcoffee",
+          "Coffee Brewing Methods 101Sep 27, 2024 — hello my name is Rachel i am the DC. and Philadelphia market trader i train baristas. and I also do quality assurance ...YouTube · La Colombe Coffee",
+          "Brewing Methods – Coffee By DesignCoffee By Design",
+          "Coffee preparation - WikipediaCoffee can be brewed in several different ways, but these methods fall into four main groups depending on how the water is introdu...Wikipedia",
+          "How to Make Coffee: 5 Best Brew Methods - Bean BoxOct 5, 2022 — French Press Cons ... While the drip method may be known for being easy and convenient, using a French press isn't exac...Bean Box",
+          "The Best Ways to Brew Coffee at HomeGrinding Your Coffee Beans at Home If you choose to grind your beans at home, you can pick between two types of coffee grinders: B...Stone Street Coffee",
+          "Types Of Coffee Brewing MethodsOther methods include: * **Pour over coffee** This method allows control over variables like brewing time and water temperature. *Restaurantware",
+          "9 Coffee Brewing Methods to TryApr 6, 2023 — There are many unique coffee brewing methods, each with its own flavor profile and characteristics. Some methods includ...Calioh Coffee"
+        ],
+        "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/FjZCYKgIkioFEdbUhmFRd1FRbM9QvceQ0Jb6sWhzeXYE-c_PNg_0k8ihhKmDC3Rm.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHzWrmSNoTneYXJRsZNfWXqR7CpcJiZGtlTfiXFMnTQYsf1PVy2VbnIdfMg&s",
+        "search_link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=what+are+the+different+ways+to+prepare+coffee&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBAj",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+are+the+different+ways+to+prepare+coffee",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "Coffee preparation methods generally fall into four categories—infusion (steeping), decoction (boiling), pressure, and gravity (drip)—each creating a unique flavor profile. Popular techniques range from automatic drip and French press to espresso, pour-over, cold brew, and Moka pot, allowing for control over brewing time, temperature, and grind size.",
+              "reference_indexes": [
+                0,
+                4,
+                11
+              ]
+            },
+            {
+              "type": "heading",
+              "snippet": "Here are the different ways to prepare coffee:"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Automatic Drip:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Automatic+Drip&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIoAIQAQ",
+                  "snippet": "The most common home method, where water heated to 195–205°F passes through grounds in a filter using gravity.",
+                  "reference_indexes": [
+                    6,
+                    7
+                  ]
+                },
+                {
+                  "title": "French Press (Immersion):",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=French+Press&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIxAIQAQ",
+                  "snippet": "Coarse grounds steep directly in hot water for several minutes before a plunger separates the grounds, producing a rich, full-bodied coffee.",
+                  "reference_indexes": [
+                    2,
+                    8
+                  ]
+                },
+                {
+                  "title": "Pour-Over / Drip (Manual):",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Pour-Over&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIygIQAQ",
+                  "snippet": "Hot water is slowly poured over grounds in a filter (e.g., V60, Chemex). This offers high control over brewing variables for a cleaner, often brighter cup.",
+                  "reference_indexes": [
+                    4,
+                    6,
+                    10
+                  ]
+                },
+                {
+                  "title": "Espresso:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Espresso&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUImAMQAQ",
+                  "snippet": "A pressurized method that forces hot water through finely ground coffee, creating a highly concentrated, flavorful shot topped with crema.",
+                  "reference_indexes": [
+                    0,
+                    11
+                  ]
+                },
+                {
+                  "title": "Moka Pot (Stovetop):",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Moka+Pot&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIwwIQAQ",
+                  "snippet": "Uses steam pressure from boiling water to force water up through grounds, producing a strong, espresso-like coffee.",
+                  "reference_indexes": [
+                    3,
+                    11
+                  ]
+                },
+                {
+                  "title": "Cold Brew:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Cold+Brew&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUI5gIQAQ",
+                  "snippet": "Grounds steep in cold water for 12–24 hours, resulting in a smooth, low-acid concentrate.",
+                  "reference_indexes": [
+                    10,
+                    11
+                  ]
+                },
+                {
+                  "title": "AeroPress:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=AeroPress&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIrAMQAQ",
+                  "snippet": "A versatile, durable brewer that uses manual pressure to make a clean, full-flavored cup in a short time.",
+                  "reference_indexes": [
+                    0,
+                    2
+                  ]
+                },
+                {
+                  "title": "Vacuum / Siphon:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Vacuum&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIpAMQAQ",
+                  "snippet": "Uses heat to create vapor pressure to move water between two chambers, creating a delicate, clean, and theatrically prepared cup.",
+                  "reference_indexes": [
+                    1,
+                    10
+                  ]
+                },
+                {
+                  "title": "Percolator:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Percolator&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvwIQAQ",
+                  "snippet": "Boils water and cycles it up a tube, continuously cycling water through grounds until desired strength is reached.",
+                  "reference_indexes": [
+                    10
+                  ]
+                },
+                {
+                  "title": "Turkish/Ibrik:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Turkish/Ibrik&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUI0gIQAQ",
+                  "snippet": "A decoction method where extremely fine coffee grounds are boiled in a special pot, often with sugar, producing a very thick, intense coffee.",
+                  "reference_indexes": [
+                    0
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "This video shows you how to make coffee with a French press:",
+              "video": {
+                "link": "https://www.youtube.com/watch?v=Ek0Khqj2liQ&t=12",
+                "thumbnail": "https://i.ytimg.com/vi/Ek0Khqj2liQ/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3l4suzHRQojxp-W_et3W6FTaU_jEg",
+                "source": "La Colombe Coffee",
+                "date": "Sep 27, 2024"
+              }
+            },
+            {
+              "type": "heading",
+              "snippet": "Key Factors for Different Methods:"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Grind Size:",
+                  "snippet": "Espresso requires very fine grounds, while French press requires coarse grounds.",
+                  "reference_indexes": [
+                    9
+                  ]
+                },
+                {
+                  "title": "Brew Time:",
+                  "snippet": "Steeping (French press) takes longer (e.g., 4 minutes) than pressurized methods (espresso, 30 seconds).",
+                  "reference_indexes": [
+                    4,
+                    8
+                  ]
+                },
+                {
+                  "title": "Flavor Profiles:",
+                  "snippet": "Immersion methods like French press yield a \"full-bodied\" cup, while filter methods (Chemex, pour-over) produce \"cleaner\" cups.",
+                  "reference_indexes": [
+                    5,
+                    6
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Watch this video to learn about five different coffee brewing methods:",
+              "video": {
+                "link": "https://www.youtube.com/watch?v=SzWGPqk1hes&t=5",
+                "thumbnail": "https://i.ytimg.com/vi/SzWGPqk1hes/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3mzLMDDC-NUriLedrIYlsjABvCzHg",
+                "source": "Times Foodie",
+                "date": "May 27, 2025"
+              }
+            }
+          ],
+          "references": [
+            {
+              "title": "Coffee Brewing Methods: French Press vs Pour Over vs AeroPress ...",
+              "link": "https://www.youtube.com/watch?v=vQVTNscQY0c#:~:text=what's%20the%20best%20way%20to%20brew%20coffee,of%20the%20most%20common%20coffee%20brewing%20methods.",
+              "snippet": "Apr 20, 2021 — what's the best way to brew coffee at home or what coffee maker should I buy these two questions we get asked a lot an...",
+              "source": "YouTube · European Coffee Trip",
+              "index": 0
+            },
+            {
+              "title": "How to make delicious coffee at home (7 different ways!)",
+              "link": "https://www.youtube.com/watch?v=tJHTA7jB-DE",
+              "snippet": "Nov 28, 2025 — hello there we are going to embark on a coffee brewing speed tour wherein we explore. seven different ways to make cof...",
+              "source": "YouTube · Morgan Eckroth",
+              "index": 1
+            },
+            {
+              "title": "Coffee Basics: Brewing Methods",
+              "link": "https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-brewing-methods",
+              "source": "Counter Culture Coffee",
+              "index": 2
+            },
+            {
+              "title": "6 Popular Methods for Brewing Coffee at Home",
+              "link": "https://treescoffee.com/blog/2016/04/6-popular-methods-for-brewing-coffee-at-home/#:~:text=Percolate:%20Stovetop%20Moka%20Pot,Bialetti%2C%20Pedrini%2C%20and%20Kabalo.",
+              "snippet": "Percolate: Stovetop Moka Pot. Originally patented in 1933 by Alfonso Bialetti, stovetop style coffee makers use steam pressure fro...",
+              "source": "Trees Organic Coffee",
+              "index": 3
+            },
+            {
+              "title": "Home Coffee Brewing 101: Methods, Equipment, and Tips for the Perfect ...",
+              "link": "https://www.youtube.com/watch?v=FOtkVxvTKAo",
+              "snippet": "Mar 14, 2025 — there are enumerous coffee gadgets on the market some cost as little as $10 some cost as much as a car and it can be r...",
+              "source": "YouTube · methodicalcoffee",
+              "index": 4
+            },
+            {
+              "title": "Coffee Brewing Methods 101",
+              "link": "https://www.youtube.com/watch?v=Ek0Khqj2liQ",
+              "snippet": "Sep 27, 2024 — hello my name is Rachel i am the DC. and Philadelphia market trader i train baristas. and I also do quality assurance ...",
+              "source": "YouTube · La Colombe Coffee",
+              "index": 5
+            },
+            {
+              "title": "Brewing Methods – Coffee By Design",
+              "link": "https://coffeebydesign.com/pages/brewing-methods",
+              "source": "Coffee By Design",
+              "index": 6
+            },
+            {
+              "title": "Coffee preparation - Wikipedia",
+              "link": "https://en.wikipedia.org/wiki/Coffee_preparation#:~:text=Coffee%20can%20be%20brewed%20in,percolation%20(as%20with%20espresso).",
+              "snippet": "Coffee can be brewed in several different ways, but these methods fall into four main groups depending on how the water is introdu...",
+              "source": "Wikipedia",
+              "index": 7
+            },
+            {
+              "title": "How to Make Coffee: 5 Best Brew Methods - Bean Box",
+              "link": "https://beanbox.com/blog/best-ways-to-make-coffee#:~:text=French%20Press%20Cons&text=While%20the%20drip%20method%20may,coffee%20immediately%20after%20brewing%20it.",
+              "snippet": "Oct 5, 2022 — French Press Cons ... While the drip method may be known for being easy and convenient, using a French press isn't exac...",
+              "source": "Bean Box",
+              "index": 8
+            },
+            {
+              "title": "The Best Ways to Brew Coffee at Home",
+              "link": "https://stonestreetcoffee.com/blogs/brooklyn-coffee-academy/the-best-ways-to-brew-coffee-at-home#:~:text=Grinding%20Your%20Coffee%20Beans%20at,burr%20grinder%20to%20guarantee%20consistency.",
+              "snippet": "Grinding Your Coffee Beans at Home If you choose to grind your beans at home, you can pick between two types of coffee grinders: B...",
+              "source": "Stone Street Coffee",
+              "index": 9
+            },
+            {
+              "title": "Types Of Coffee Brewing Methods",
+              "link": "https://www.restaurantware.com/blogs/coffee-shop-guide/types-of-coffee-brewing-methods",
+              "snippet": "Other methods include: * **Pour over coffee** This method allows control over variables like brewing time and water temperature. *",
+              "source": "Restaurantware",
+              "index": 10
+            },
+            {
+              "title": "9 Coffee Brewing Methods to Try",
+              "link": "https://www.caliohcoffee.com/blogs/coffee-knowledge/9-coffee-brewing-methods-to-try-for-a-unique-and-flavorful-cup",
+              "snippet": "Apr 6, 2023 — There are many unique coffee brewing methods, each with its own flavor profile and characteristics. Some methods includ...",
+              "source": "Calioh Coffee",
+              "index": 11
+            }
+          ]
+        }
+      },
+      {
+        "text": "Grinding Methods",
+        "title": "AI Overview",
+        "date": "Volcanica Coffee",
+        "list": [
+          "What's the Best Way to Grind Coffee at Home? | The KitchnMar 10, 2021 — We compared a coffee mill, blade grinder, burr grinder, and pre-ground coffee. Here's what we found and what we recomm...The Kitchn",
+          "How to GRIND Coffee the Right Way (Blade vs. Burr Grinders)Sep 25, 2024 — right start with a visual inspection compare your grind visually to a reference chart or a sample for the coffee nerds...YouTube · Volcanica Coffee",
+          "How to Grind Coffee Beans Without a Grinder : Coffee MakingOct 25, 2012 — now if you do choose to use your blender. make sure you read the user manual to ensure that you're not going to burn o...YouTube · cookingguide",
+          "How to Grind Coffee Without a GrinderApr 30, 2022 — we have some whole beans here amidst. some like finer particles i'm going to give this method a 6 out of 10 it's just ...YouTube · HomeGrounds Coffee",
+          "r/Coffee on Reddit: How to grind beans without a grinder? Also ...Jun 30, 2018 — Hand Grinder Recommendations: Hand grinders are suggested as a good starting point for grinding coffee beans, with mod...Reddit · r/Coffee",
+          "Grinding and Brewing Coffee for Maximum Coffee Quality ... and a ...The whirley blade smashes the bean to bits by rotating at high speeds. The results are an uneven grind: boulders, rocks and powder...Sweet Maria's Coffee Library",
+          "How to properly grind coffee beans #shorts #coffeeNov 16, 2022 — grinding beans fresh makes the best coffee. but not all grinders are created equal blade grinders are typically afford...YouTube · Problem Solved",
+          "How to Grind Coffee Beans at HomeStarbucks Coffee",
+          "How to Grind Coffee Beans at Home (With and Without a Grinder)Mar 20, 2025 — Blade. Blade grinders don't actually grind—they chop. A spinning blade rapidly cuts through the coffee beans, and in t...Methodical Coffee",
+          "How to grind coffee beans | KitchenAid US * Step 1: Choose your brewing method. Once you determine which brewing method you'll be using—cold brew, espresso, auto drip, etc...KitchenAid",
+          "The Ultimate Guide to Coffee Grind SizeJun 23, 2021 — Type of Coffee Grinders Grinding coffee beans at home means you'll need a coffee bean grinder. There are three types o...Bean & Bean Coffee Roasters",
+          "5 WAYS TO GRIND FRESH COFFEE AT HOMEJun 21, 2021 — There are also different types of coffee grounds: * **Medium coffee ground** Has a consistency of granulated sugar. Pr...Coffee Culture Thailand",
+          "Coffee Basics: Grind Size Key Takeaways * The darker the roast, the coarser the grind setting. * Ethiopian coffees require a slightly coarser grind compare...Counter Culture Coffee"
+        ],
+        "favicon": "https://serpapi.com/searches/69df8fd1eb55a39fb0813aff/images/FjZCYKgIkioFEdbUhmFRd5z1IVk4X1JPLwpRos8xF8oF01rl_yXBo13Cf_6pEIzn.png",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7FGUW1rWYLbDrqs_FaZHC8ZAnz3_gEdvnwwo16cJDipcsPyS7JMz6npbsBw&s",
+        "search_link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=what+are+the+different+ways+to+grind+coffee+beans&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBAz",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+are+the+different+ways+to+grind+coffee+beans",
+        "ai_overview": {
+          "text_blocks": [
+            {
+              "type": "paragraph",
+              "snippet": "Coffee beans are ground using burr grinders (most precise/consistent), blade grinders (budget-friendly but inconsistent), or manual hand grinders. The best method depends on the brewing technique, ranging from coarse (French press) to fine (espresso). Non-grinder alternatives include using a mortar and pestle, rolling pin, or blender.",
+              "reference_indexes": [
+                0,
+                2,
+                5,
+                6,
+                8,
+                9,
+                10,
+                12
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Primary Grinding Methods"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "title": "Burr Grinders (Recommended):",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Burr+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIgQMQAQ",
+                  "snippet": "Uses revolving abrasive surfaces (conical or flat) to crush beans into a uniform size, which is critical for consistent extraction. These allow for precise adjustments.",
+                  "reference_indexes": [
+                    7,
+                    9,
+                    10
+                  ]
+                },
+                {
+                  "title": "Blade Grinders:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Blade+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvQMQAQ",
+                  "snippet": "A spinning blade chops the beans, which is affordable but produces uneven, inconsistent grounds (mixture of powder and chunks), affecting brew quality.",
+                  "reference_indexes": [
+                    7,
+                    8
+                  ]
+                },
+                {
+                  "title": "Manual/Hand Grinders:",
+                  "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Manual/Hand+Grinders&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIvAMQAQ",
+                  "snippet": "Good for beginners or for portability. They are quiet, manual, and usually offer better consistency than blade grinders.",
+                  "reference_indexes": [
+                    4,
+                    10
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "This video explains the difference between burr and blade grinders:",
+              "video": {
+                "link": "https://www.youtube.com/watch?v=pYCvs1sBh3g&t=46",
+                "thumbnail": "https://i.ytimg.com/vi/pYCvs1sBh3g/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3m3ZoJcNSJkqDXD-LQthYbYSdkvQQ",
+                "source": "Volcanica Coffee",
+                "date": "Sep 25, 2024"
+              }
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Alternative Methods (Without a Grinder)"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Mortar and Pestle: Highly effective for controlling consistency and achieving fine grinds.",
+                  "snippet_links": [
+                    {
+                      "text": "Mortar and Pestle",
+                      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Mortar+and+Pestle&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIjwMQAQ"
+                    }
+                  ],
+                  "reference_indexes": [
+                    2
+                  ]
+                },
+                {
+                  "snippet": "Rolling Pin: Place beans in a bag and crush them using a rolling pin, suitable for a coarse grind.",
+                  "snippet_links": [
+                    {
+                      "text": "Rolling Pin",
+                      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Rolling+Pin&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIpQMQAQ"
+                    }
+                  ],
+                  "reference_indexes": [
+                    2
+                  ]
+                },
+                {
+                  "snippet": "Blender/Food Processor: Uses blades to chop, similar to a blade grinder; best used in pulses to avoid overheating the beans.",
+                  "snippet_links": [
+                    {
+                      "text": "Blender/Food Processor",
+                      "link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=Blender/Food+Processor&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QxccNegUIugMQAQ"
+                    }
+                  ],
+                  "reference_indexes": [
+                    3
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "This video shows how to grind coffee beans with a rolling pin and a blender:",
+              "video": {
+                "link": "https://www.youtube.com/watch?v=1YUDB-AjJ5s&t=5",
+                "thumbnail": "https://i.ytimg.com/vi/1YUDB-AjJ5s/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3mZu0JkVHPDBFq68E_4I9O3gf8kaw",
+                "source": "cookingguide",
+                "date": "Oct 25, 2012"
+              }
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Grind Size Based on Brew Method",
+              "reference_indexes": [
+                9,
+                11,
+                12
+              ]
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Coarse: French Press, Cold Brew."
+                },
+                {
+                  "snippet": "Medium: Drip Coffee, Pour-over."
+                },
+                {
+                  "snippet": "Fine: Espresso, Moka Pot."
+                },
+                {
+                  "snippet": "Extra Fine: Turkish Coffee."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "snippet": "Key Tips"
+            },
+            {
+              "type": "list",
+              "list": [
+                {
+                  "snippet": "Roast Level: Lighter roasts require a finer grind, while darker, more porous roasts benefit from a coarser setting.",
+                  "reference_indexes": [
+                    1,
+                    12
+                  ]
+                },
+                {
+                  "snippet": "Consistency: Consistent grind sizes prevent under-extraction (sourness) or over-extraction (bitterness).",
+                  "reference_indexes": [
+                    8
+                  ]
+                },
+                {
+                  "snippet": "Freshness: Grind immediately before brewing to maximize flavor.",
+                  "reference_indexes": [
+                    6
+                  ]
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "title": "What's the Best Way to Grind Coffee at Home? | The Kitchn",
+              "link": "https://www.thekitchn.com/best-way-to-grind-coffee-23139279#:~:text=We%20compared%20a%20coffee%20mill%2C%20blade%20grinder%2C,what%20we%20found%20and%20what%20we%20recommend.",
+              "snippet": "Mar 10, 2021 — We compared a coffee mill, blade grinder, burr grinder, and pre-ground coffee. Here's what we found and what we recomm...",
+              "source": "The Kitchn",
+              "index": 0
+            },
+            {
+              "title": "How to GRIND Coffee the Right Way (Blade vs. Burr Grinders)",
+              "link": "https://www.youtube.com/watch?t=197&v=pYCvs1sBh3g",
+              "snippet": "Sep 25, 2024 — right start with a visual inspection compare your grind visually to a reference chart or a sample for the coffee nerds...",
+              "source": "YouTube · Volcanica Coffee",
+              "index": 1
+            },
+            {
+              "title": "How to Grind Coffee Beans Without a Grinder : Coffee Making",
+              "link": "https://www.youtube.com/watch?t=45&v=1YUDB-AjJ5s",
+              "snippet": "Oct 25, 2012 — now if you do choose to use your blender. make sure you read the user manual to ensure that you're not going to burn o...",
+              "source": "YouTube · cookingguide",
+              "index": 2
+            },
+            {
+              "title": "How to Grind Coffee Without a Grinder",
+              "link": "https://www.youtube.com/watch?t=464&v=PRPAV0uFavM",
+              "snippet": "Apr 30, 2022 — we have some whole beans here amidst. some like finer particles i'm going to give this method a 6 out of 10 it's just ...",
+              "source": "YouTube · HomeGrounds Coffee",
+              "index": 3
+            },
+            {
+              "title": "r/Coffee on Reddit: How to grind beans without a grinder? Also ...",
+              "link": "https://www.reddit.com/r/Coffee/comments/8v42xx/how_to_grind_beans_without_a_grinder_also_grinder/#:~:text=Hand%20Grinder%20Recommendations:%20Hand%20grinders%20are%20suggested,Plus%20are%20mentioned%20as%20specific%2C%20quality%20options.",
+              "snippet": "Jun 30, 2018 — Hand Grinder Recommendations: Hand grinders are suggested as a good starting point for grinding coffee beans, with mod...",
+              "source": "Reddit · r/Coffee",
+              "index": 4
+            },
+            {
+              "title": "Grinding and Brewing Coffee for Maximum Coffee Quality ... and a ...",
+              "link": "https://library.sweetmarias.com/grinding-and-brewing-coffee-for-maximum-coffee-quality-and-a-note-on-tasting-coffee-too/#:~:text=The%20whirley%20blade%20smashes%20the,which%20catches%20all%20the%20powder.",
+              "snippet": "The whirley blade smashes the bean to bits by rotating at high speeds. The results are an uneven grind: boulders, rocks and powder...",
+              "source": "Sweet Maria's Coffee Library",
+              "index": 5
+            },
+            {
+              "title": "How to properly grind coffee beans #shorts #coffee",
+              "link": "https://www.youtube.com/shorts/tNmt_7cZ8dU",
+              "snippet": "Nov 16, 2022 — grinding beans fresh makes the best coffee. but not all grinders are created equal blade grinders are typically afford...",
+              "source": "YouTube · Problem Solved",
+              "index": 6
+            },
+            {
+              "title": "How to Grind Coffee Beans at Home",
+              "link": "https://www.starbucksathome.com/brewing-guides/at-home-tips/how-to-grind-coffee-beans",
+              "source": "Starbucks Coffee",
+              "index": 7
+            },
+            {
+              "title": "How to Grind Coffee Beans at Home (With and Without a Grinder)",
+              "link": "https://methodicalcoffee.com/blogs/coffee-culture/how-to-grind-coffee-beans#:~:text=Blade,grinder%20is%20a%20better%20investment.",
+              "snippet": "Mar 20, 2025 — Blade. Blade grinders don't actually grind—they chop. A spinning blade rapidly cuts through the coffee beans, and in t...",
+              "source": "Methodical Coffee",
+              "index": 8
+            },
+            {
+              "title": "How to grind coffee beans | KitchenAid US",
+              "link": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-grind-coffee-beans",
+              "snippet": "* Step 1: Choose your brewing method. Once you determine which brewing method you'll be using—cold brew, espresso, auto drip, etc...",
+              "source": "KitchenAid",
+              "index": 9
+            },
+            {
+              "title": "The Ultimate Guide to Coffee Grind Size",
+              "link": "https://beannbeancoffee.com/blogs/beansider/the-ultimate-guide-to-coffee-grind-size#:~:text=Type%20of%20Coffee%20Grinders,grounds%20in%20about%20a%20minute.",
+              "snippet": "Jun 23, 2021 — Type of Coffee Grinders Grinding coffee beans at home means you'll need a coffee bean grinder. There are three types o...",
+              "source": "Bean & Bean Coffee Roasters",
+              "index": 10
+            },
+            {
+              "title": "5 WAYS TO GRIND FRESH COFFEE AT HOME",
+              "link": "https://coffeeculture.asia/5-ways-to-grind-fresh-coffee-at-home/",
+              "snippet": "Jun 21, 2021 — There are also different types of coffee grounds: * **Medium coffee ground** Has a consistency of granulated sugar. Pr...",
+              "source": "Coffee Culture Thailand",
+              "index": 11
+            },
+            {
+              "title": "Coffee Basics: Grind Size",
+              "link": "https://counterculturecoffee.com/blogs/counter-culture-coffee/coffee-basics-grind-size",
+              "snippet": "Key Takeaways * The darker the roast, the coarser the grind setting. * Ethiopian coffees require a slightly coarser grind compare...",
+              "source": "Counter Culture Coffee",
+              "index": 12
+            }
+          ]
+        }
+      },
+      {
+        "text": "Calories",
+        "table": [
+          [
+            "Amount Per 1 fl oz (29.6 g)100 grams6 fl oz (178 g)1 cup (8 fl oz) (237 g)1 cup (8 fl oz) (237 g)"
+          ],
+          [
+            "Calories 1"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?sca_esv=b23efcb65468375a&hl=en&gl=us&q=coffee+calories&sa=X&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8QrooIegQIFBBC",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=coffee+calories"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=10&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8NMDegUI0wEQFg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=10&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQBA",
+      "3": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=20&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQBg",
+      "4": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=30&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQCA",
+      "5": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=40&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQCg",
+      "6": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=50&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQDA",
+      "7": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=60&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQDg",
+      "8": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=70&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQEA",
+      "9": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=80&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQEg",
+      "10": "https://www.google.com/search?q=Coffee&sca_esv=b23efcb65468375a&hl=en&gl=us&ei=0Y_fadfkPKekiLMP1fbD-Q4&start=90&sa=N&sstk=Af77f_fzHtNN22G-pn9sA9ymfZ-5Ho-gM8fyr4zDaoqSoT_pg_gqWuJvELT8N6e7XmHqXJ93n9DVhHk3QB5h4jMKnW_1o-84DVU5mQ&ved=2ahUKEwiXkZjC-O-TAxUnEmIAHVX7MO8Q8tMDegUI0wEQFA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Coffee&start=90"
+    }
+  }
+}
