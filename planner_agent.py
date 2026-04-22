@@ -4,9 +4,14 @@ Planner-Executor 模式的智能体实现
 """
 
 import ast
+import re
+from pathlib import Path
 from typing import List
 
 from hello_agents import HelloAgentLLM
+
+# 基于脚本位置获取 prompt 目录，避免硬编码路径
+PROMPT_DIR = Path(__file__).parent / "prompt"
 
 
 class Planner:
@@ -16,10 +21,9 @@ class Planner:
         self.llm_client = llm_client
 
     def plan(self, question: str) -> List[str]:
-        """
-        根据用户提问生成一个行动计划
-        """
-        with open("prompt/planner_prompt.txt", "r") as f:
+        """根据用户提问生成行动计划"""
+        prompt_path = PROMPT_DIR / "planner_prompt.txt"
+        with open(prompt_path, "r") as f:
             prompt = f.read()
         prompt = prompt.format(question=question)
 
@@ -34,9 +38,14 @@ class Planner:
 
         print(f"✅计划已生成: {response_text}")
 
-        # 解析LLM输出的字符串
+        # 解析 LLM 输出的字符串（使用正则增强容错性）
         try:
-            plan_str = response_text.split("```python")[1].split("```")[0].strip()
+            match = re.search(r"```python\s*(.*?)\s*```", response_text, re.DOTALL)
+            if match:
+                plan_str = match.group(1).strip()
+            else:
+                # Fallback: 尝试直接解析
+                plan_str = response_text.strip()
             plan = ast.literal_eval(plan_str)
             return plan if isinstance(plan, list) else []
         except (ValueError, SyntaxError, IndexError) as e:
@@ -55,16 +64,14 @@ class Executor:
         """初始化执行器，绑定 LLM 客户端"""
         self.llm_client = llm_client
 
-
-    def execute(self, question: str, plan: List[str])  -> str:
-        """
-        执行行动计划
-        """
+    def execute(self, question: str, plan: List[str]) -> str:
+        """执行行动计划"""
         history = ""
 
         print("\n---正在执行计划---")
 
-        with open("prompt/executor_prompt.txt", "r") as f:
+        prompt_path = PROMPT_DIR / "executor_prompt.txt"
+        with open(prompt_path, "r") as f:
             origin_prompt = f.read()
 
         for i, step in enumerate(plan):
@@ -94,11 +101,8 @@ class PlanAndSolveAgent:
         self.planner = Planner(llm_client)
         self.executor = Executor(llm_client)
 
-
     def run(self, question: str):
-        """
-        运行智能体，根据用户提问生成行动计划并执行
-        """
+        """运行智能体，根据用户提问生成行动计划并执行"""
         print(f"\n--- 开始处理问题 ---\n问题: {question}")
 
         # 1.调用规划器生成计划

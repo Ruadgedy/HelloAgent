@@ -4,11 +4,14 @@ ReAct (Reasoning + Acting) 智能体实现
 """
 
 import re
-from pyexpat.errors import messages
+from pathlib import Path
 
 import tools.web_search
 from hello_agents import HelloAgentLLM
 from tool_executor import ToolExecutor
+
+# 基于脚本位置获取 prompt 目录
+PROMPT_DIR = Path(__file__).parent / "prompt"
 
 
 class ReActAgent:
@@ -46,7 +49,8 @@ class ReActAgent:
             tools_desc = self.tool_executor.getAvailableTools()
             history_str = "\n".join(self.history)
 
-            prompt = open("prompt/react_prompt.txt", "r").read()
+            prompt_path = PROMPT_DIR / "react_prompt.txt"
+            prompt = open(prompt_path, "r").read()
             prompt = prompt.format(
                 tools=tools_desc,
                 question=question,

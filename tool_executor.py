@@ -27,17 +27,15 @@ class ToolExecutor:
         print(f"工具 '{name}' 已注册。")
 
     def getTool(self, name: str) -> Callable:
-        """
-        根据名称获取一个工具的执行函数。
-        """
+        """根据名称获取一个工具的执行函数，不存在时返回 None"""
+        if name not in self.tools:
+            return None
         return self.tools[name]["func"]
 
     def getAvailableTools(self) -> str:
-        """
-        获取所有可用工具的格式化描述字符串。
-        """
+        """获取所有可用工具的格式化描述字符串"""
         return "\n".join([
-            f"- {name}: {info}[description]"
+            f"- {name}: {info['description']}"
             for name, info in self.tools.items()
         ])
 
