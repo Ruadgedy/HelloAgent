@@ -1,15 +1,41 @@
 import os
+import re
+from datetime import datetime
 
 from dotenv import load_dotenv
 from serpapi import SerpApiClient
 
 load_dotenv(verbose=True)
 
-def search(query: str) -> str:
+def _rewrite_query_with_time(query: str) -> str:
+    """
+    将query中的时间相关词汇替换为具体日期。
+    例如：【最新、最近、近期】 -> '2026年'
+    """
+    now = datetime.now()
+    current_year = now.strftime("%Y年")
+    current_year_short = now.strftime("%Y")
+    current_year_2digit = now.strftime("%y")
+
+    replacements = [
+        (r"最新", current_year),
+        (r"近期", current_year),
+        (r"最近", current_year),
+        (r"今年", current_year),
+    ]
+
+    rewritten = query
+    for pattern, replacement in replacements:
+        rewritten = re.sub(pattern, replacement, rewritten)
+
+    return rewritten
+
+def search(query: str, recency_days: int = 365) -> str:
     """
     一个基于SerpApi的实战网页搜索引擎工具。
     它会智能地解析搜索结果，优先返回直接答案或知识图谱信息。
     """
+    query = _rewrite_query_with_time(query)
     print(f"🔍 正在执行 [SerpApi] 网页搜索: {query}")
     try:
         api_key = os.getenv("SERPAPI_API_KEY")
