@@ -1,6 +1,26 @@
 """
 ReAct (Reasoning + Acting) 智能体实现
 通过思考-行动-观察的循环来回答复杂问题
+
+架构说明:
+    本实现采用三层工具管理架构:
+    1. ToolRegistry: 工具注册表，管理所有工具的元数据和函数
+    2. ToolSelector: 工具选择器，根据用户意图选择合适的工具
+    3. ToolExecutor: 工具执行器，负责调用工具并处理重试和异常
+
+    ReActAgent 是编排层，协调三者工作:
+    - 使用 Selector 选择工具
+    - 使用 Executor 执行工具
+    - 使用 Registry 获取工具描述
+
+循环流程:
+    while 未达到最大步数:
+        1. 构建Prompt (含工具描述、历史、错误提示)
+        2. 调用LLM获取思考和行动
+        3. 解析LLM的JSON输出
+        4. 执行工具 (通过Executor)
+        5. 记录执行结果到历史
+        6. 检查是否达到最终答案 (Finish)
 """
 
 import json
@@ -14,23 +34,97 @@ import tools.web_search
 import tools.time_query
 import tools.calculator
 from hello_agents import HelloAgentLLM
-from tool_executor import ToolExecutor
+from tools.registry import ToolRegistry
+from tools.selector import ToolSelector
+from tools.executor import ToolExecutor, ExecutionStatus
 
 PROMPT_DIR = Path(__file__).parent / "prompt"
 
 
+def create_default_registry() -> ToolRegistry:
+    """
+    创建默认的工具注册表
+
+    预注册工具:
+    - Search: 网页搜索工具，分类为 search
+    - GetCurrentTime: 时间查询工具，分类为 time
+    - Calculator: 计算器工具，分类为 calculate
+
+    每个工具都包含:
+    - name: 工具名
+    - description: 功能描述
+    - func: Python函数
+    - category: 业务分类（用于意图路由）
+    - tags: 标签（用于关键词检索）
+    - parameters: 参数定义
+    - examples: 调用示例（供LLM学习）
+    """
+    registry = ToolRegistry()
+
+    registry.register(
+        name="Search",
+        description="网页搜索引擎。用于搜索实时信息、新闻、事件等。",
+        func=tools.web_search.search,
+        category="search",
+        tags=["搜索", "查询", "信息", "新闻"],
+        parameters={"query": "搜索关键词"},
+        examples=["Search[小米手机2026年新机型]", "Search[今天天气]"]
+    )
+
+    registry.register(
+        name="GetCurrentTime",
+        description="获取当前日期和时间。用于回答'现在几点了'、'今天是哪天'等问题。",
+        func=tools.time_query.get_current_time,
+        category="time",
+        tags=["时间", "日期", "现在"],
+        parameters={},
+        examples=["GetCurrentTime[]"]
+    )
+
+    registry.register(
+        name="Calculator",
+        description="数学计算器。用于计算数学表达式，支持加减乘除、括号、指数等。",
+        func=tools.calculator.calculate,
+        category="calculate",
+        tags=["计算", "数学", "运算"],
+        parameters={"expression": "数学表达式"},
+        examples=["Calculator[(123+456)*789/12]", "Calculator[2**10]"]
+    )
+
+    return registry
+
+
 class ReActAgent:
     """
-    ReAct 智能体：结合推理与行动的问答智能体
-    通过 Thought -> Action -> Observation 循环，直到得到最终答案
+    ReAct 智能体
+
+    核心属性:
+        llm_client: LLM客户端，用于生成思考和行动
+        registry: 工具注册表，提供工具元数据和描述
+        selector: 工具选择器，根据意图筛选工具（当前未充分使用）
+        executor: 工具执行器，执行工具调用并处理重试
+        max_steps: 最大循环步数，防止无限循环
+        history: 对话历史，记录Action和Observation
+        tool_call_failures: 工具调用失败记录，用于渐进式错误提示
+
+    使用示例:
+        registry = create_default_registry()
+        selector = ToolSelector(registry)
+        executor = ToolExecutor(registry)
+
+        agent = ReActAgent(llm_client, registry, selector, executor, max_steps=5)
+        result = agent.run("小米手机最新型号")
     """
 
-    def __init__(self, llm_client: HelloAgentLLM, tool_executor: ToolExecutor, max_steps: int = 5):
+    def __init__(self, llm_client: HelloAgentLLM, registry: ToolRegistry,
+                 selector: ToolSelector, executor: ToolExecutor, max_steps: int = 5):
         self.llm_client = llm_client
-        self.tool_executor = tool_executor
+        self.registry = registry
+        self.selector = selector
+        self.executor = executor
         self.max_steps = max_steps
         self.history = []
-        self.tool_call_failures = [] # 记录工具调用每次失败信息
+        self.tool_call_failures = []
 
     def run(self, question: str):
         self.history = []
@@ -47,7 +141,7 @@ class ReActAgent:
             current_step += 1
             print(f"--- 第 {current_step} 步 ---")
 
-            tools_desc = self.tool_executor.getAvailableTools()
+            tools_desc = self.registry.describe_all()
             history_str = "\n".join(self.history)
             error_hint = self._build_error_hint()
 
@@ -99,28 +193,22 @@ class ReActAgent:
                 print("无效的Tool name")
                 continue
 
+            # 大小写纠正：如果LLM输出的工具名不存在，尝试大小写不敏感匹配
+            # 例如LLM输出"search"但实际注册的是"Search"
+            actual_tool_name = self._correct_tool_name(tool_name)
+            if actual_tool_name != tool_name:
+                print(f"⚠️ 工具名大小写纠正: '{tool_name}' -> '{actual_tool_name}'")
+                tool_name = actual_tool_name
+
             print(f"🎬 行动: {tool_name}[{tool_input}]")
 
-            observation = ""
-            failure_reason = None
+            result = self.executor.execute(tool_name, tool_input)
+            observation = result.observation
 
-            if tool_name == "GetCurrentTime":
-                observation = tools.time_query.get_current_time(tool_input)
+            if result.status == ExecutionStatus.SUCCESS:
+                failure_reason = None
             else:
-                tool_func = self.tool_executor.getTool(tool_name)
-                if not tool_func:
-                    available = self.tool_executor.getAvailableToolNames()
-                    observation = f"错误:未找到名为 '{tool_name}' 的工具。可用工具: {available}"
-                    failure_reason = f"工具'{tool_name}'不存在"
-                elif not tool_input:
-                    observation = f"错误:工具 '{tool_name}' 的参数不能为空"
-                    failure_reason = f"工具'{tool_name}'参数为空"
-                else:
-                    try:
-                        observation = tool_func(tool_input)
-                    except Exception as e:
-                        observation = f"错误:工具 '{tool_name}' 执行失败，原因: {e}"
-                        failure_reason = f"工具'{tool_name}'执行异常"
+                failure_reason = f"工具'{tool_name}'执行失败: {result.error}"
 
             # 失败原因只可能有：工具不存在、参数为空、执行异常
             if failure_reason:
@@ -138,11 +226,66 @@ class ReActAgent:
         print("已达到最大步数，流程终止。")
         return None
 
+    def _correct_tool_name(self, tool_name: str) -> str:
+        """
+        纠正工具名的大小写错误
+
+        当LLM输出的工具名与注册的工具名存在大小写差异时，
+        自动纠正为注册的正确名称。
+
+        例如:
+            LLM输出: "search" -> 实际注册: "Search" -> 纠正为: "Search"
+
+        Args:
+            tool_name: LLM输出的工具名
+
+        Returns:
+            纠正后的工具名（如果存在大小写差异）
+            原始工具名（如果无需纠正或不存在）
+        """
+        # 如果工具名直接存在（区分大小写），无需纠正
+        if self.registry.get(tool_name):
+            return tool_name
+
+        # 尝试大小写不敏感匹配
+        # get_all()返回ToolMetadata列表，需访问.name属性
+        for metadata in self.registry.get_all():
+            if metadata.name.lower() == tool_name.lower():
+                return metadata.name
+
+        # 未找到匹配，返回原始名称
+        return tool_name
+
     def _contains_time_keywords(self, text: str) -> bool:
-        time_keywords = ["最新", "当前", "今年", "何时", "现在", "最近", "最近"]
+        """
+        检查文本是否包含时间相关关键词
+
+        用于判断是否需要自动注入当前时间提示。
+        当用户问题包含"最新"、"当前"等词时，需要告知LLM当前实际时间。
+
+        Args:
+            text: 用户问题
+
+        Returns:
+            True if 包含时间关键词
+        """
+        time_keywords = ["最新", "当前", "今年", "何时", "现在", "最近"]
         return any(keyword in text for keyword in time_keywords)
 
     def _inject_current_time(self, question: str) -> str:
+        """
+        如果问题涉及时间关键词，自动注入当前时间到prompt
+
+        当检测到用户问题涉及时间时（如"最新"），调用time_query工具
+        获取当前时间，并将时间信息注入prompt，让LLM基于正确的时间回答。
+
+        Args:
+            question: 用户问题
+
+        Returns:
+            时间提示字符串，如"【系统提示】当前时间是 2026年04月26日..."
+            如果不涉及时间，返回空字符串
+        """
         if not self._contains_time_keywords(question):
             return ""
         try:
@@ -155,12 +298,17 @@ class ReActAgent:
         """
         根据失败历史构建错误提示，实现渐进式干预。
 
-        干预策略：
-        - 1次失败：仅提醒检查工具名和参数
-        - 2次失败：列出具体失败的工具，并给出可用工具列表
-        - 3次及以上：
-            - 如果是同一工具反复失败（如Search调用3次都报错），明确指出并要求停止
-            - 否则提示即将终止任务
+        干预策略:
+        - 1次失败: 提醒检查工具名和参数（轻微提示）
+        - 2次失败: 列出失败的工具和可用工具清单（帮助纠正）
+        - 3次及以上:
+            - 同一工具反复失败 → 明确要求停止调用该工具
+            - 不同工具都失败 → 警告即将终止任务
+
+        设计考虑:
+        - 只看最近2次失败（更早的失败已不重要）
+        - 区分"重复调用同一工具"和"调用不同工具都失败"两种情况
+        - 渐进式干预：给予LLM自我纠正的机会，而非一开始就终止
 
         Returns:
             格式化的错误提示字符串，供注入到prompt中
@@ -180,7 +328,8 @@ class ReActAgent:
         elif len(self.tool_call_failures) == 2:
             failed_tools = [f["tool"] for f in recent_failures]
             hints.append(f"【警告】连续2次工具调用失败 ({', '.join(failed_tools)})。")
-            hints.append(f"可用工具列表: {self.tool_executor.getAvailableToolNames()}")
+            tool_names = [t.name for t in self.registry.get_all()]
+            hints.append(f"可用工具列表: {tool_names}")
 
         # 第3次及以上：严重警告，区分重复调用同一工具 vs 调用不同工具都失败
         else:
@@ -201,6 +350,10 @@ class ReActAgent:
 
         仅检查最近2次失败记录。如果这2次都在调用同一个工具，
         说明LLM在反复尝试一个错误的工具，需要特别提醒。
+
+        设计考虑:
+        - 为什么要检查"重复"？因为LLM可能会固执地重复调用同一失败的工具
+        - 为什么要只看2次？因为更早的失败模式已不重要，重要的是"最近在重复"
 
         Returns:
             如果2次失败都是同一工具，返回工具名；否则返回None
@@ -252,18 +405,12 @@ class ReActAgent:
 
 if __name__ == "__main__":
     llm_agent = HelloAgentLLM()
-    tool_executor = ToolExecutor()
-    # 注册搜索工具
-    search_description = "一个网页搜索引擎。当你需要回答关于时事、事实以及在你的知识库中找不到的信息时，应使用此工具。"
-    tool_executor.registerTool("Search", search_description, tools.web_search.search)
-    # 注册时间查询工具
-    time_description = "获取当前日期和时间。当你需要知道'现在'是几号、几月、几年时调用此工具。"
-    tool_executor.registerTool("GetCurrentTime", time_description, tools.time_query.get_current_time)
-    calc_description = "计算器工具，用于执行数学运算。支持加减乘除、括号、指数等标准表达式，如 '(123+456)*789/12'。"
-    tool_executor.registerTool("Calculator", calc_description, tools.calculator.calculate)
 
-    agent = ReActAgent(llm_agent, tool_executor, 5)
-    # query = "小米手机新机型"
-    query = "计算 (321+456)*789/0"
+    registry = create_default_registry()
+    selector = ToolSelector(registry)
+    executor = ToolExecutor(registry, max_retries=2)
+
+    agent = ReActAgent(llm_agent, registry, selector, executor, 5)
+    query = "小米手机新机型"
     result = agent.run(query)
     print(result)
