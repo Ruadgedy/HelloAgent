@@ -32,6 +32,14 @@ class ToolExecutor:
             return None
         return self.tools[name]["func"]
 
+    def getToolInfo(self, name: str) -> Dict[str, Any]:
+        """获取工具的完整信息，不存在时返回None"""
+        return self.tools.get(name)
+
+    def getAvailableToolNames(self) -> list:
+        """获取所有可用工具的名称列表"""
+        return list(self.tools.keys())
+
     def getAvailableTools(self) -> str:
         """获取所有可用工具的格式化描述字符串"""
         return "\n".join([

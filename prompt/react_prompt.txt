@@ -20,6 +20,8 @@ $tools
 
 $time_hint
 
+$error_hint
+
 现在,请开始解决以下问题:
 Question: $question
 History: $history
