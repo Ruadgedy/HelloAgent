@@ -70,3 +70,5 @@ def my_method(self, arg1: str, arg2: int) -> bool:
 # 因为指数退避可以快速失败又不会过度频繁重试
 sleep_time = base * (2 ** attempt)
 ```
+
+## 函数、方法参数必须包括类型提示
